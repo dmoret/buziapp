@@ -1,5 +1,11 @@
 <?php
-
+/*
+ *---------------------------------------------------------------
+ * APPLICATION TIMEZONE
+ *---------------------------------------------------------------
+ *
+ */
+    date_default_timezone_set('America/New_York');
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
@@ -37,6 +43,7 @@ if (defined('ENVIRONMENT'))
 		break;
 	
 		case 'testing':
+            error_reporting(E_ALL);
 		case 'production':
 			error_reporting(0);
 		break;
@@ -190,6 +197,7 @@ if (defined('ENVIRONMENT'))
 
 		define('APPPATH', BASEPATH.$application_folder.'/');
 	}
+    
 
 /*
  * --------------------------------------------------------------------

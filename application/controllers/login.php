@@ -17,8 +17,25 @@ class Login extends CI_Controller {
 	 * map to /index.php/welcome/<method_name>
 	 * @see http://codeigniter.com/user_guide/general/urls.html
 	 */
+     
+  /*
+    function __construct()
+    {
+		parent::__construct();
+        $this->load->library('mongo_db');
+       // $connection = new Mongo('localhost:28017');
+      //  var_dump($connection);
+		//$this->load->model('Users');
+	}
+*/
 	public function index()
 	{
+       // var_dump($this->connection);
+        $this->load->library('mongo_db');
+        $result = $this->mongo_db->get('test');
+        
+        echo '<pre>'; var_dump($result); echo '</pre>';
+        
 		$this->load->view('login');
 	}
 }
