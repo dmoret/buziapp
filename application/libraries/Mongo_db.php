@@ -67,7 +67,7 @@ class Mongo_db
 	 * @var mixed
 	 * @access private
 	 */
-	private $_host = array('localhost');
+	private $_host = array('ex-c9-node7.prod.rhcloud.com:27017');
 	
 	/**
 	 * Database user.
@@ -247,6 +247,7 @@ class Mongo_db
 			$this->_show_error('No config name passed or config variables', 500);
 		}
 		
+        //echo '<pre>'; print_r($this->_config_data); echo '</pre>';
 		$this->_connection_string();
 		$this->_connect();
 	}	

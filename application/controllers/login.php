@@ -18,23 +18,34 @@ class Login extends CI_Controller {
 	 * @see http://codeigniter.com/user_guide/general/urls.html
 	 */
      
-  /*
+/*
     function __construct()
     {
 		parent::__construct();
         $this->load->library('mongo_db');
-       // $connection = new Mongo('localhost:28017');
-      //  var_dump($connection);
-		//$this->load->model('Users');
 	}
 */
 	public function index()
 	{
        // var_dump($this->connection);
         $this->load->library('mongo_db');
-        $result = $this->mongo_db->get('test');
-        
-        echo '<pre>'; var_dump($result); echo '</pre>';
+        // $result = $this->mongo_db->insert('foo', array('foo'=>'bar'));
+       //var_dump(SALT); die();
+/*
+        $result = $this->mongo_db->insert('users', array('_id'=>2,'first_name'=>'Test',
+                                                'last_name'=>'User',
+                                                'username'=>'testuser',
+                                                'email'=>'test@gmail.com',
+                                                'password'=>crypt('22352',SALT),
+                                                'title'=>'Employee',
+                                                'access_id'=>1,
+                                                'date_created'=>date('Y-m-d H:i:s'),
+                                                'date_modified'=>NULL));
+*/
+       $result = $this->mongo_db->get('users');
+    
+        //$result = $this->mongo_db->insert('users', array('first_name'=>'test'));
+        echo '<pre>'; print_r($result); echo '</pre>';
         
 		$this->load->view('login');
 	}

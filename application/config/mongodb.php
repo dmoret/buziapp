@@ -15,14 +15,13 @@
  * ['mongo_suppress_connect_error'] If the driver can't connect by default it will throw an error which dislays the username and password used to connect. Set to TRUE to hide these details.
  * ['mongo_host_db_flag']   If running in auth mode and the user does not have global read/write then set this to true
  */
-
-$config['default']['mongo_hostbase'] = 'localhost:27017';
+$config['default']['mongo_hostbase'] = '127.3.123.129:27017';
 $config['default']['mongo_database'] = 'test';
 $config['default']['mongo_username'] = '';
 $config['default']['mongo_password'] = '';
-$config['default']['mongo_persist']  = TRUE;
-$config['default']['mongo_persist_key']     = 'ci_persist';
+$config['default']['mongo_persist']  = FALSE;
+$config['default']['mongo_persist_key'] = 'ci_persist';
 $config['default']['mongo_replica_set']  = FALSE;
 $config['default']['mongo_query_safety'] = 'safe';
-$config['default']['mongo_suppress_connect_error'] = TRUE;
+$config['default']['mongo_suppress_connect_error'] = FALSE;
 $config['default']['mongo_host_db_flag']   = FALSE;
