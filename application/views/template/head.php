@@ -11,3 +11,9 @@
     <script src="/js/global.js" language="javascript" type="text/javascript"></script>
 </head>
 <body>
+<?php
+
+if(ENVIRONMENT=='development')
+    $this->load->view('template/debug');
+
+?>
