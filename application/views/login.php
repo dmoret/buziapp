@@ -38,13 +38,13 @@
         
         <div class="clearfix"></div>
         
-        <div class="pin-number-btn">
+        <div class="pin-btn">
             <button id="enter" class="btn btn-large btn-block" type="button">ENTER</button>
         </div>
-        <div class="pin-number-btn">
+        <div class="pin-btn">
             <button id="delete" class="btn btn-large btn-block" type="button">DELETE</button>
         </div>
-        <div class="pin-number-btn">
+        <div class="pin-btn">
             <button id="reset" class="btn btn-large btn-block" type="button">CLEAR</button>
         </div>
         <div class="clearfix"></div>

@@ -17,7 +17,6 @@
                 $(this).click(function(){
                     var id = $(this).attr('id');
                     var value = id.substring(3);
-                    //alert(value);
                     var display_pin = $('#display-pin').html();
                     $('#display-pin').html(display_pin+value);
                 });
@@ -25,10 +24,10 @@
     
             $('#enter').click(function(){
                 var password = $('#display-pin').html();
-                
+                console.log('password: '+password);
                 $.post('/login/auth', {password: password}, function(data) {
                     //$('.result').html(data);
-                    
+                    console.log('data: '+data);
                     if(data==1){
                         $('#display-pin').html('<span style="color:#3ADF00;">Login Successful!</span>');
                         setTimeout(function(){
@@ -45,7 +44,7 @@
                             $('#display-pin').html('');
                         },800); 
                     }
-                    console.log(data);
+                    //console.log(data);
                     
                 });
 
