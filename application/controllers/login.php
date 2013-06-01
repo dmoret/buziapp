@@ -9,8 +9,13 @@ class Login extends CI_Controller {
 
 	public function index()
 	{
-        echo '<pre>';print_r($this->session->all_userdata());   echo '</pre>';
-        $data['view'] = 'login';
+        $this->load->helper('auth');
+        
+        if(checkAuth())
+            $data['view'] = 'dashboard';
+        else
+            $data['view'] = 'login';
+        
         
 		$this->load->view('template/view',$data);
 	}
