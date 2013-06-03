@@ -52,7 +52,7 @@ $autoload['packages'] = array();
 |	$autoload['libraries'] = array('database', 'session', 'xmlrpc');
 */
 
-$autoload['libraries'] = array('session','mongo_db');
+$autoload['libraries'] = array('session','mongo_db','datatables');
 
 
 /*
@@ -64,7 +64,7 @@ $autoload['libraries'] = array('session','mongo_db');
 |	$autoload['helper'] = array('url', 'file');
 */
 
-$autoload['helper'] = array('url','file');
+$autoload['helper'] = array('url','file','inflector','language','string','form','ajaxcheck');
 
 
 /*
@@ -80,7 +80,7 @@ $autoload['helper'] = array('url','file');
 |
 */
 
-$autoload['config'] = array();
+$autoload['config'] = array('datatables');
 
 
 /*

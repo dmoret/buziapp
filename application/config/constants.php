@@ -39,5 +39,6 @@ define('FOPEN_READ_WRITE_CREATE_STRICT',		'x+b');
 //Custom Constants
 define('IS_AJAX', isset($_SERVER['HTTP_X_REQUESTED_WITH']) && strtolower($_SERVER['HTTP_X_REQUESTED_WITH']) == 'xmlhttprequest');
 define('SALT','$2a$08$ljr0tja.rhebi1u4hz5u0uip9dmknyzgddzji6lta.cqxuq5bdjz2');
+define('MSG_REQUIRED','Please fill in all required fields.');
 /* End of file constants.php */
 /* Location: ./application/config/constants.php */

@@ -1,4 +1,4 @@
-    ::selection{ background-color: #E13300; color: white; }
+/*    ::selection{ background-color: #E13300; color: white; }
 	::moz-selection{ background-color: #E13300; color: white; }
 	::webkit-selection{ background-color: #E13300; color: white; }
 
@@ -37,10 +37,12 @@
 		padding: 12px 10px 12px 10px;
 	}
 
+
 	#login-container{
         width:auto;
         margin: 1%;
 	}
+*/
     #display-pin{
         width:96%;
         color:#fff;
@@ -131,4 +133,30 @@
     background: rgba( 0, 0, 0, .8 ) url(../images/loader.gif) 50% 50% no-repeat;}
     
  
-    
+.fs10{font-size:10px;}
+.fs11{font-size:11px;}
+.fs12{font-size:12px;}
+.fs13{font-size:13px;}
+.fs14{font-size:14px;}
+.fs15{font-size:15px;}
+.fs16{font-size:16px;}
+.fs18{font-size:18px;}
+.fs20{font-size:20px;}
+.fs22{font-size:22px;}
+.fs24{font-size:24px;}
+.fs26{font-size:26px;}
+.fs28{font-size:28px;}
+.fs30{font-size:30px;}
+.fs32{font-size:32px;}
+.fs34{font-size:34px;}
+.fs36{font-size:36px;}
+
+ /* bootstrap custom styles */  
+ 
+.well-dark-grey{
+    background:#444;  
+    border: 1px solid #666;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+     -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+    }

@@ -12,9 +12,9 @@ class Login extends CI_Controller {
         $this->load->helper('auth');
         
         if(checkAuth())
-            $data['view'] = 'dashboard';
+            $data['view'] = 'dashboard/view';
         else
-            $data['view'] = 'login';
+            $data['view'] = 'login/view';
         
         
 		$this->load->view('template/view',$data);
