@@ -1,6 +1,8 @@
 <div class="navbar navbar-inverse navbar-fixed-top">
     <div class="navbar-inner">
-        <a class="brand" href="#"><i class="icon-home icon-white"  style="margin:3px 7px 0 0;"></i></a>
+        
+            <a href="/" style="margin: 10px 0 0 10px;float: left"><i class="icon-home icon-white"></i></a>
+        
         <ul class="nav">
             <li class="divider-vertical"></li>
             <li class="dropdown">
@@ -37,7 +39,8 @@
         </ul>
     </div>
 </div>
-<br />
+<div style="height:60px;">&nbsp;</div>
+
 <!--<div id="dash-header-container">
 
     <i class="icon-home icon-white" style="float:left;margin:3px 7px 0 0;"></i>
@@ -85,4 +88,4 @@
     <div class="clearfix"></div>
 </div>
 -->
-<div id="container" class="container-fluid" style="padding:0;">
+<div id="container" class="container-fluid">

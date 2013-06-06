@@ -4830,3 +4830,1432 @@ DEBUG - 2013-06-03 16:52:43 --> File loaded: application/views/template/footer.p
 DEBUG - 2013-06-03 16:52:43 --> File loaded: application/views/template/view.php
 DEBUG - 2013-06-03 16:52:43 --> Final output sent to browser
 DEBUG - 2013-06-03 16:52:43 --> Total execution time: 0.2863
+DEBUG - 2013-06-03 16:54:53 --> Config Class Initialized
+DEBUG - 2013-06-03 16:54:53 --> Hooks Class Initialized
+DEBUG - 2013-06-03 16:54:53 --> Utf8 Class Initialized
+DEBUG - 2013-06-03 16:54:53 --> UTF-8 Support Enabled
+DEBUG - 2013-06-03 16:54:53 --> URI Class Initialized
+DEBUG - 2013-06-03 16:54:53 --> Router Class Initialized
+DEBUG - 2013-06-03 16:54:53 --> Output Class Initialized
+DEBUG - 2013-06-03 16:54:53 --> Security Class Initialized
+DEBUG - 2013-06-03 16:54:53 --> Input Class Initialized
+DEBUG - 2013-06-03 16:54:53 --> XSS Filtering completed
+DEBUG - 2013-06-03 16:54:53 --> XSS Filtering completed
+DEBUG - 2013-06-03 16:54:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-03 16:54:53 --> Language Class Initialized
+DEBUG - 2013-06-03 16:54:53 --> Loader Class Initialized
+DEBUG - 2013-06-03 16:54:53 --> Config file loaded: application/config/datatables.php
+DEBUG - 2013-06-03 16:54:53 --> Helper loaded: url_helper
+DEBUG - 2013-06-03 16:54:53 --> Helper loaded: file_helper
+DEBUG - 2013-06-03 16:54:53 --> Helper loaded: inflector_helper
+DEBUG - 2013-06-03 16:54:53 --> Helper loaded: language_helper
+DEBUG - 2013-06-03 16:54:53 --> Helper loaded: string_helper
+DEBUG - 2013-06-03 16:54:53 --> Helper loaded: form_helper
+DEBUG - 2013-06-03 16:54:53 --> Helper loaded: ajaxcheck_helper
+DEBUG - 2013-06-03 16:54:53 --> Session Class Initialized
+DEBUG - 2013-06-03 16:54:53 --> Encrypt Class Initialized
+DEBUG - 2013-06-03 16:54:53 --> Session routines successfully run
+DEBUG - 2013-06-03 16:54:53 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2013-06-03 16:54:53 --> Controller Class Initialized
+DEBUG - 2013-06-03 16:54:53 --> Model Class Initialized
+DEBUG - 2013-06-03 16:54:53 --> Model Class Initialized
+ERROR - 2013-06-03 16:54:53 --> Could not find the language line "dt_search_placeholder"
+ERROR - 2013-06-03 16:54:53 --> Could not find the language line "dt_export"
+ERROR - 2013-06-03 16:54:53 --> Could not find the language line "dt_columns"
+ERROR - 2013-06-03 16:54:53 --> Could not find the language line "dt_first"
+ERROR - 2013-06-03 16:54:53 --> Could not find the language line "dt_last"
+ERROR - 2013-06-03 16:54:53 --> Could not find the language line "dt_next"
+ERROR - 2013-06-03 16:54:53 --> Could not find the language line "dt_previous"
+ERROR - 2013-06-03 16:54:53 --> Could not find the language line "dt_empty_table"
+ERROR - 2013-06-03 16:54:53 --> Could not find the language line "dt_info"
+ERROR - 2013-06-03 16:54:53 --> Could not find the language line "dt_info_empty"
+ERROR - 2013-06-03 16:54:53 --> Could not find the language line "dt_info_filtered"
+ERROR - 2013-06-03 16:54:53 --> Could not find the language line "dt_info_postfix"
+ERROR - 2013-06-03 16:54:53 --> Could not find the language line "dt_length_menu"
+ERROR - 2013-06-03 16:54:53 --> Could not find the language line "dt_loading_records"
+ERROR - 2013-06-03 16:54:53 --> Could not find the language line "dt_processing"
+ERROR - 2013-06-03 16:54:53 --> Could not find the language line "dt_search"
+ERROR - 2013-06-03 16:54:53 --> Could not find the language line "dt_zero_records"
+DEBUG - 2013-06-03 16:54:53 --> File loaded: application/views/template/debug.php
+DEBUG - 2013-06-03 16:54:53 --> File loaded: application/views/template/head.php
+DEBUG - 2013-06-03 16:54:54 --> File loaded: application/views/template/header.php
+DEBUG - 2013-06-03 16:54:54 --> File loaded: application/views/company/view.php
+DEBUG - 2013-06-03 16:54:54 --> File loaded: application/views/template/footer.php
+DEBUG - 2013-06-03 16:54:54 --> File loaded: application/views/template/view.php
+DEBUG - 2013-06-03 16:54:54 --> Final output sent to browser
+DEBUG - 2013-06-03 16:54:54 --> Total execution time: 0.6011
+DEBUG - 2013-06-03 16:54:58 --> Config Class Initialized
+DEBUG - 2013-06-03 16:54:58 --> Hooks Class Initialized
+DEBUG - 2013-06-03 16:54:58 --> Utf8 Class Initialized
+DEBUG - 2013-06-03 16:54:58 --> UTF-8 Support Enabled
+DEBUG - 2013-06-03 16:54:58 --> URI Class Initialized
+DEBUG - 2013-06-03 16:54:58 --> Router Class Initialized
+DEBUG - 2013-06-03 16:54:58 --> Output Class Initialized
+DEBUG - 2013-06-03 16:54:58 --> Security Class Initialized
+DEBUG - 2013-06-03 16:54:58 --> Input Class Initialized
+DEBUG - 2013-06-03 16:54:58 --> XSS Filtering completed
+DEBUG - 2013-06-03 16:54:58 --> XSS Filtering completed
+DEBUG - 2013-06-03 16:54:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-03 16:54:58 --> Language Class Initialized
+DEBUG - 2013-06-03 16:54:58 --> Loader Class Initialized
+DEBUG - 2013-06-03 16:54:58 --> Config file loaded: application/config/datatables.php
+DEBUG - 2013-06-03 16:54:58 --> Helper loaded: url_helper
+DEBUG - 2013-06-03 16:54:58 --> Helper loaded: file_helper
+DEBUG - 2013-06-03 16:54:58 --> Helper loaded: inflector_helper
+DEBUG - 2013-06-03 16:54:58 --> Helper loaded: language_helper
+DEBUG - 2013-06-03 16:54:58 --> Helper loaded: string_helper
+DEBUG - 2013-06-03 16:54:58 --> Helper loaded: form_helper
+DEBUG - 2013-06-03 16:54:58 --> Helper loaded: ajaxcheck_helper
+DEBUG - 2013-06-03 16:54:58 --> Session Class Initialized
+DEBUG - 2013-06-03 16:54:58 --> Encrypt Class Initialized
+DEBUG - 2013-06-03 16:54:58 --> Session routines successfully run
+DEBUG - 2013-06-03 16:54:58 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2013-06-03 16:54:58 --> Controller Class Initialized
+DEBUG - 2013-06-03 16:54:58 --> Model Class Initialized
+DEBUG - 2013-06-03 16:54:58 --> Model Class Initialized
+ERROR - 2013-06-03 16:54:58 --> Could not find the language line "dt_search_placeholder"
+ERROR - 2013-06-03 16:54:58 --> Could not find the language line "dt_export"
+ERROR - 2013-06-03 16:54:58 --> Could not find the language line "dt_columns"
+ERROR - 2013-06-03 16:54:58 --> Could not find the language line "dt_first"
+ERROR - 2013-06-03 16:54:58 --> Could not find the language line "dt_last"
+ERROR - 2013-06-03 16:54:58 --> Could not find the language line "dt_next"
+ERROR - 2013-06-03 16:54:58 --> Could not find the language line "dt_previous"
+ERROR - 2013-06-03 16:54:58 --> Could not find the language line "dt_empty_table"
+ERROR - 2013-06-03 16:54:58 --> Could not find the language line "dt_info"
+ERROR - 2013-06-03 16:54:58 --> Could not find the language line "dt_info_empty"
+ERROR - 2013-06-03 16:54:58 --> Could not find the language line "dt_info_filtered"
+ERROR - 2013-06-03 16:54:58 --> Could not find the language line "dt_info_postfix"
+ERROR - 2013-06-03 16:54:58 --> Could not find the language line "dt_length_menu"
+ERROR - 2013-06-03 16:54:58 --> Could not find the language line "dt_loading_records"
+ERROR - 2013-06-03 16:54:58 --> Could not find the language line "dt_processing"
+ERROR - 2013-06-03 16:54:58 --> Could not find the language line "dt_search"
+ERROR - 2013-06-03 16:54:58 --> Could not find the language line "dt_zero_records"
+DEBUG - 2013-06-03 16:54:58 --> File loaded: application/views/template/debug.php
+DEBUG - 2013-06-03 16:54:58 --> File loaded: application/views/template/head.php
+DEBUG - 2013-06-03 16:54:58 --> File loaded: application/views/template/header.php
+DEBUG - 2013-06-03 16:54:58 --> File loaded: application/views/company/view.php
+DEBUG - 2013-06-03 16:54:58 --> File loaded: application/views/template/footer.php
+DEBUG - 2013-06-03 16:54:58 --> File loaded: application/views/template/view.php
+DEBUG - 2013-06-03 16:54:58 --> Final output sent to browser
+DEBUG - 2013-06-03 16:54:58 --> Total execution time: 0.1472
+DEBUG - 2013-06-03 16:55:04 --> Config Class Initialized
+DEBUG - 2013-06-03 16:55:04 --> Hooks Class Initialized
+DEBUG - 2013-06-03 16:55:04 --> Utf8 Class Initialized
+DEBUG - 2013-06-03 16:55:04 --> UTF-8 Support Enabled
+DEBUG - 2013-06-03 16:55:04 --> URI Class Initialized
+DEBUG - 2013-06-03 16:55:04 --> Router Class Initialized
+DEBUG - 2013-06-03 16:55:04 --> No URI present. Default controller set.
+DEBUG - 2013-06-03 16:55:04 --> Output Class Initialized
+DEBUG - 2013-06-03 16:55:04 --> Security Class Initialized
+DEBUG - 2013-06-03 16:55:04 --> Input Class Initialized
+DEBUG - 2013-06-03 16:55:04 --> XSS Filtering completed
+DEBUG - 2013-06-03 16:55:04 --> XSS Filtering completed
+DEBUG - 2013-06-03 16:55:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-03 16:55:04 --> Language Class Initialized
+DEBUG - 2013-06-03 16:55:04 --> Loader Class Initialized
+DEBUG - 2013-06-03 16:55:04 --> Config file loaded: application/config/datatables.php
+DEBUG - 2013-06-03 16:55:04 --> Helper loaded: url_helper
+DEBUG - 2013-06-03 16:55:04 --> Helper loaded: file_helper
+DEBUG - 2013-06-03 16:55:04 --> Helper loaded: inflector_helper
+DEBUG - 2013-06-03 16:55:04 --> Helper loaded: language_helper
+DEBUG - 2013-06-03 16:55:04 --> Helper loaded: string_helper
+DEBUG - 2013-06-03 16:55:04 --> Helper loaded: form_helper
+DEBUG - 2013-06-03 16:55:04 --> Helper loaded: ajaxcheck_helper
+DEBUG - 2013-06-03 16:55:04 --> Session Class Initialized
+DEBUG - 2013-06-03 16:55:04 --> Encrypt Class Initialized
+DEBUG - 2013-06-03 16:55:04 --> Session routines successfully run
+DEBUG - 2013-06-03 16:55:04 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2013-06-03 16:55:04 --> Controller Class Initialized
+DEBUG - 2013-06-03 16:55:04 --> Helper loaded: auth_helper
+DEBUG - 2013-06-03 16:55:04 --> File loaded: application/views/template/debug.php
+DEBUG - 2013-06-03 16:55:04 --> File loaded: application/views/template/head.php
+DEBUG - 2013-06-03 16:55:04 --> File loaded: application/views/template/header.php
+DEBUG - 2013-06-03 16:55:04 --> File loaded: application/views/dashboard/view.php
+DEBUG - 2013-06-03 16:55:04 --> File loaded: application/views/template/footer.php
+DEBUG - 2013-06-03 16:55:04 --> File loaded: application/views/template/view.php
+DEBUG - 2013-06-03 16:55:04 --> Final output sent to browser
+DEBUG - 2013-06-03 16:55:04 --> Total execution time: 0.1477
+DEBUG - 2013-06-03 16:55:07 --> Config Class Initialized
+DEBUG - 2013-06-03 16:55:07 --> Hooks Class Initialized
+DEBUG - 2013-06-03 16:55:07 --> Utf8 Class Initialized
+DEBUG - 2013-06-03 16:55:07 --> UTF-8 Support Enabled
+DEBUG - 2013-06-03 16:55:07 --> URI Class Initialized
+DEBUG - 2013-06-03 16:55:07 --> Router Class Initialized
+DEBUG - 2013-06-03 16:55:07 --> No URI present. Default controller set.
+DEBUG - 2013-06-03 16:55:07 --> Output Class Initialized
+DEBUG - 2013-06-03 16:55:07 --> Security Class Initialized
+DEBUG - 2013-06-03 16:55:07 --> Input Class Initialized
+DEBUG - 2013-06-03 16:55:07 --> XSS Filtering completed
+DEBUG - 2013-06-03 16:55:07 --> XSS Filtering completed
+DEBUG - 2013-06-03 16:55:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-03 16:55:07 --> Language Class Initialized
+DEBUG - 2013-06-03 16:55:07 --> Loader Class Initialized
+DEBUG - 2013-06-03 16:55:07 --> Config file loaded: application/config/datatables.php
+DEBUG - 2013-06-03 16:55:07 --> Helper loaded: url_helper
+DEBUG - 2013-06-03 16:55:07 --> Helper loaded: file_helper
+DEBUG - 2013-06-03 16:55:07 --> Helper loaded: inflector_helper
+DEBUG - 2013-06-03 16:55:07 --> Helper loaded: language_helper
+DEBUG - 2013-06-03 16:55:07 --> Helper loaded: string_helper
+DEBUG - 2013-06-03 16:55:07 --> Helper loaded: form_helper
+DEBUG - 2013-06-03 16:55:07 --> Helper loaded: ajaxcheck_helper
+DEBUG - 2013-06-03 16:55:07 --> Session Class Initialized
+DEBUG - 2013-06-03 16:55:07 --> Encrypt Class Initialized
+DEBUG - 2013-06-03 16:55:07 --> Session routines successfully run
+DEBUG - 2013-06-03 16:55:07 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2013-06-03 16:55:07 --> Controller Class Initialized
+DEBUG - 2013-06-03 16:55:07 --> Helper loaded: auth_helper
+DEBUG - 2013-06-03 16:55:07 --> File loaded: application/views/template/debug.php
+DEBUG - 2013-06-03 16:55:07 --> File loaded: application/views/template/head.php
+DEBUG - 2013-06-03 16:55:07 --> File loaded: application/views/template/header.php
+DEBUG - 2013-06-03 16:55:07 --> File loaded: application/views/dashboard/view.php
+DEBUG - 2013-06-03 16:55:07 --> File loaded: application/views/template/footer.php
+DEBUG - 2013-06-03 16:55:07 --> File loaded: application/views/template/view.php
+DEBUG - 2013-06-03 16:55:07 --> Final output sent to browser
+DEBUG - 2013-06-03 16:55:07 --> Total execution time: 0.1083
+DEBUG - 2013-06-03 16:55:29 --> Config Class Initialized
+DEBUG - 2013-06-03 16:55:29 --> Hooks Class Initialized
+DEBUG - 2013-06-03 16:55:29 --> Utf8 Class Initialized
+DEBUG - 2013-06-03 16:55:29 --> UTF-8 Support Enabled
+DEBUG - 2013-06-03 16:55:29 --> URI Class Initialized
+DEBUG - 2013-06-03 16:55:29 --> Router Class Initialized
+DEBUG - 2013-06-03 16:55:29 --> No URI present. Default controller set.
+DEBUG - 2013-06-03 16:55:29 --> Output Class Initialized
+DEBUG - 2013-06-03 16:55:29 --> Security Class Initialized
+DEBUG - 2013-06-03 16:55:29 --> Input Class Initialized
+DEBUG - 2013-06-03 16:55:29 --> XSS Filtering completed
+DEBUG - 2013-06-03 16:55:29 --> XSS Filtering completed
+DEBUG - 2013-06-03 16:55:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-03 16:55:29 --> Language Class Initialized
+DEBUG - 2013-06-03 16:55:29 --> Loader Class Initialized
+DEBUG - 2013-06-03 16:55:29 --> Config file loaded: application/config/datatables.php
+DEBUG - 2013-06-03 16:55:29 --> Helper loaded: url_helper
+DEBUG - 2013-06-03 16:55:29 --> Helper loaded: file_helper
+DEBUG - 2013-06-03 16:55:29 --> Helper loaded: inflector_helper
+DEBUG - 2013-06-03 16:55:29 --> Helper loaded: language_helper
+DEBUG - 2013-06-03 16:55:29 --> Helper loaded: string_helper
+DEBUG - 2013-06-03 16:55:29 --> Helper loaded: form_helper
+DEBUG - 2013-06-03 16:55:29 --> Helper loaded: ajaxcheck_helper
+DEBUG - 2013-06-03 16:55:29 --> Session Class Initialized
+DEBUG - 2013-06-03 16:55:29 --> Encrypt Class Initialized
+DEBUG - 2013-06-03 16:55:29 --> Session routines successfully run
+DEBUG - 2013-06-03 16:55:29 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2013-06-03 16:55:29 --> Controller Class Initialized
+DEBUG - 2013-06-03 16:55:29 --> Helper loaded: auth_helper
+DEBUG - 2013-06-03 16:55:29 --> File loaded: application/views/template/debug.php
+DEBUG - 2013-06-03 16:55:29 --> File loaded: application/views/template/head.php
+DEBUG - 2013-06-03 16:55:29 --> File loaded: application/views/template/header.php
+DEBUG - 2013-06-03 16:55:29 --> File loaded: application/views/dashboard/view.php
+DEBUG - 2013-06-03 16:55:29 --> File loaded: application/views/template/footer.php
+DEBUG - 2013-06-03 16:55:29 --> File loaded: application/views/template/view.php
+DEBUG - 2013-06-03 16:55:29 --> Final output sent to browser
+DEBUG - 2013-06-03 16:55:29 --> Total execution time: 0.0770
+DEBUG - 2013-06-03 17:02:05 --> Config Class Initialized
+DEBUG - 2013-06-03 17:02:05 --> Hooks Class Initialized
+DEBUG - 2013-06-03 17:02:05 --> Utf8 Class Initialized
+DEBUG - 2013-06-03 17:02:05 --> UTF-8 Support Enabled
+DEBUG - 2013-06-03 17:02:05 --> URI Class Initialized
+DEBUG - 2013-06-03 17:02:05 --> Router Class Initialized
+DEBUG - 2013-06-03 17:02:05 --> Output Class Initialized
+DEBUG - 2013-06-03 17:02:05 --> Security Class Initialized
+DEBUG - 2013-06-03 17:02:05 --> Input Class Initialized
+DEBUG - 2013-06-03 17:02:05 --> XSS Filtering completed
+DEBUG - 2013-06-03 17:02:05 --> XSS Filtering completed
+DEBUG - 2013-06-03 17:02:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-03 17:02:05 --> Language Class Initialized
+DEBUG - 2013-06-03 17:02:05 --> Loader Class Initialized
+DEBUG - 2013-06-03 17:02:05 --> Config file loaded: application/config/datatables.php
+DEBUG - 2013-06-03 17:02:05 --> Helper loaded: url_helper
+DEBUG - 2013-06-03 17:02:05 --> Helper loaded: file_helper
+DEBUG - 2013-06-03 17:02:05 --> Helper loaded: inflector_helper
+DEBUG - 2013-06-03 17:02:05 --> Helper loaded: language_helper
+DEBUG - 2013-06-03 17:02:05 --> Helper loaded: string_helper
+DEBUG - 2013-06-03 17:02:05 --> Helper loaded: form_helper
+DEBUG - 2013-06-03 17:02:05 --> Helper loaded: ajaxcheck_helper
+DEBUG - 2013-06-03 17:02:05 --> Session Class Initialized
+DEBUG - 2013-06-03 17:02:05 --> Encrypt Class Initialized
+DEBUG - 2013-06-03 17:02:05 --> Session routines successfully run
+DEBUG - 2013-06-03 17:02:06 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2013-06-03 17:02:06 --> Controller Class Initialized
+DEBUG - 2013-06-03 17:02:06 --> Model Class Initialized
+DEBUG - 2013-06-03 17:02:06 --> Model Class Initialized
+ERROR - 2013-06-03 17:02:06 --> Could not find the language line "dt_search_placeholder"
+ERROR - 2013-06-03 17:02:06 --> Could not find the language line "dt_export"
+ERROR - 2013-06-03 17:02:06 --> Could not find the language line "dt_columns"
+ERROR - 2013-06-03 17:02:06 --> Could not find the language line "dt_first"
+ERROR - 2013-06-03 17:02:06 --> Could not find the language line "dt_last"
+ERROR - 2013-06-03 17:02:06 --> Could not find the language line "dt_next"
+ERROR - 2013-06-03 17:02:06 --> Could not find the language line "dt_previous"
+ERROR - 2013-06-03 17:02:06 --> Could not find the language line "dt_empty_table"
+ERROR - 2013-06-03 17:02:06 --> Could not find the language line "dt_info"
+ERROR - 2013-06-03 17:02:06 --> Could not find the language line "dt_info_empty"
+ERROR - 2013-06-03 17:02:06 --> Could not find the language line "dt_info_filtered"
+ERROR - 2013-06-03 17:02:06 --> Could not find the language line "dt_info_postfix"
+ERROR - 2013-06-03 17:02:06 --> Could not find the language line "dt_length_menu"
+ERROR - 2013-06-03 17:02:06 --> Could not find the language line "dt_loading_records"
+ERROR - 2013-06-03 17:02:06 --> Could not find the language line "dt_processing"
+ERROR - 2013-06-03 17:02:06 --> Could not find the language line "dt_search"
+ERROR - 2013-06-03 17:02:06 --> Could not find the language line "dt_zero_records"
+DEBUG - 2013-06-03 17:02:06 --> File loaded: application/views/template/debug.php
+DEBUG - 2013-06-03 17:02:06 --> File loaded: application/views/template/head.php
+DEBUG - 2013-06-03 17:02:06 --> File loaded: application/views/template/header.php
+DEBUG - 2013-06-03 17:02:06 --> File loaded: application/views/company/view.php
+DEBUG - 2013-06-03 17:02:06 --> File loaded: application/views/template/footer.php
+DEBUG - 2013-06-03 17:02:06 --> File loaded: application/views/template/view.php
+DEBUG - 2013-06-03 17:02:06 --> Final output sent to browser
+DEBUG - 2013-06-03 17:02:06 --> Total execution time: 0.4150
+DEBUG - 2013-06-03 17:05:57 --> Config Class Initialized
+DEBUG - 2013-06-03 17:05:57 --> Hooks Class Initialized
+DEBUG - 2013-06-03 17:05:57 --> Utf8 Class Initialized
+DEBUG - 2013-06-03 17:05:57 --> UTF-8 Support Enabled
+DEBUG - 2013-06-03 17:05:57 --> URI Class Initialized
+DEBUG - 2013-06-03 17:05:57 --> Router Class Initialized
+DEBUG - 2013-06-03 17:05:57 --> Output Class Initialized
+DEBUG - 2013-06-03 17:05:57 --> Security Class Initialized
+DEBUG - 2013-06-03 17:05:57 --> Input Class Initialized
+DEBUG - 2013-06-03 17:05:57 --> XSS Filtering completed
+DEBUG - 2013-06-03 17:05:57 --> XSS Filtering completed
+DEBUG - 2013-06-03 17:05:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-03 17:05:57 --> Language Class Initialized
+DEBUG - 2013-06-03 17:05:57 --> Loader Class Initialized
+DEBUG - 2013-06-03 17:05:57 --> Config file loaded: application/config/datatables.php
+DEBUG - 2013-06-03 17:05:57 --> Helper loaded: url_helper
+DEBUG - 2013-06-03 17:05:57 --> Helper loaded: file_helper
+DEBUG - 2013-06-03 17:05:57 --> Helper loaded: inflector_helper
+DEBUG - 2013-06-03 17:05:57 --> Helper loaded: language_helper
+DEBUG - 2013-06-03 17:05:57 --> Helper loaded: string_helper
+DEBUG - 2013-06-03 17:05:57 --> Helper loaded: form_helper
+DEBUG - 2013-06-03 17:05:57 --> Helper loaded: ajaxcheck_helper
+DEBUG - 2013-06-03 17:05:57 --> Session Class Initialized
+DEBUG - 2013-06-03 17:05:57 --> Encrypt Class Initialized
+DEBUG - 2013-06-03 17:05:57 --> Session routines successfully run
+DEBUG - 2013-06-03 17:05:57 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2013-06-03 17:05:57 --> Controller Class Initialized
+DEBUG - 2013-06-03 17:05:57 --> Model Class Initialized
+DEBUG - 2013-06-03 17:05:57 --> Model Class Initialized
+DEBUG - 2013-06-03 17:05:57 --> File loaded: application/views/template/debug.php
+DEBUG - 2013-06-03 17:05:57 --> File loaded: application/views/template/head.php
+DEBUG - 2013-06-03 17:05:57 --> File loaded: application/views/template/header.php
+DEBUG - 2013-06-03 17:05:57 --> File loaded: application/views/company/add.php
+DEBUG - 2013-06-03 17:05:57 --> File loaded: application/views/template/footer.php
+DEBUG - 2013-06-03 17:05:57 --> File loaded: application/views/template/view.php
+DEBUG - 2013-06-03 17:05:57 --> Final output sent to browser
+DEBUG - 2013-06-03 17:05:57 --> Total execution time: 0.1876
+DEBUG - 2013-06-03 17:05:59 --> Config Class Initialized
+DEBUG - 2013-06-03 17:05:59 --> Hooks Class Initialized
+DEBUG - 2013-06-03 17:05:59 --> Utf8 Class Initialized
+DEBUG - 2013-06-03 17:05:59 --> UTF-8 Support Enabled
+DEBUG - 2013-06-03 17:05:59 --> URI Class Initialized
+DEBUG - 2013-06-03 17:05:59 --> Router Class Initialized
+DEBUG - 2013-06-03 17:05:59 --> Output Class Initialized
+DEBUG - 2013-06-03 17:05:59 --> Security Class Initialized
+DEBUG - 2013-06-03 17:05:59 --> Input Class Initialized
+DEBUG - 2013-06-03 17:05:59 --> XSS Filtering completed
+DEBUG - 2013-06-03 17:05:59 --> XSS Filtering completed
+DEBUG - 2013-06-03 17:05:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-03 17:05:59 --> Language Class Initialized
+DEBUG - 2013-06-03 17:05:59 --> Loader Class Initialized
+DEBUG - 2013-06-03 17:05:59 --> Config file loaded: application/config/datatables.php
+DEBUG - 2013-06-03 17:05:59 --> Helper loaded: url_helper
+DEBUG - 2013-06-03 17:05:59 --> Helper loaded: file_helper
+DEBUG - 2013-06-03 17:05:59 --> Helper loaded: inflector_helper
+DEBUG - 2013-06-03 17:05:59 --> Helper loaded: language_helper
+DEBUG - 2013-06-03 17:05:59 --> Helper loaded: string_helper
+DEBUG - 2013-06-03 17:05:59 --> Helper loaded: form_helper
+DEBUG - 2013-06-03 17:05:59 --> Helper loaded: ajaxcheck_helper
+DEBUG - 2013-06-03 17:05:59 --> Session Class Initialized
+DEBUG - 2013-06-03 17:05:59 --> Encrypt Class Initialized
+DEBUG - 2013-06-03 17:05:59 --> Session routines successfully run
+DEBUG - 2013-06-03 17:05:59 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2013-06-03 17:05:59 --> Controller Class Initialized
+DEBUG - 2013-06-03 17:05:59 --> Model Class Initialized
+DEBUG - 2013-06-03 17:05:59 --> Model Class Initialized
+ERROR - 2013-06-03 17:05:59 --> Could not find the language line "dt_search_placeholder"
+ERROR - 2013-06-03 17:05:59 --> Could not find the language line "dt_export"
+ERROR - 2013-06-03 17:05:59 --> Could not find the language line "dt_columns"
+ERROR - 2013-06-03 17:05:59 --> Could not find the language line "dt_first"
+ERROR - 2013-06-03 17:05:59 --> Could not find the language line "dt_last"
+ERROR - 2013-06-03 17:05:59 --> Could not find the language line "dt_next"
+ERROR - 2013-06-03 17:05:59 --> Could not find the language line "dt_previous"
+ERROR - 2013-06-03 17:05:59 --> Could not find the language line "dt_empty_table"
+ERROR - 2013-06-03 17:05:59 --> Could not find the language line "dt_info"
+ERROR - 2013-06-03 17:05:59 --> Could not find the language line "dt_info_empty"
+ERROR - 2013-06-03 17:05:59 --> Could not find the language line "dt_info_filtered"
+ERROR - 2013-06-03 17:05:59 --> Could not find the language line "dt_info_postfix"
+ERROR - 2013-06-03 17:05:59 --> Could not find the language line "dt_length_menu"
+ERROR - 2013-06-03 17:05:59 --> Could not find the language line "dt_loading_records"
+ERROR - 2013-06-03 17:05:59 --> Could not find the language line "dt_processing"
+ERROR - 2013-06-03 17:05:59 --> Could not find the language line "dt_search"
+ERROR - 2013-06-03 17:05:59 --> Could not find the language line "dt_zero_records"
+DEBUG - 2013-06-03 17:05:59 --> File loaded: application/views/template/debug.php
+DEBUG - 2013-06-03 17:05:59 --> File loaded: application/views/template/head.php
+DEBUG - 2013-06-03 17:05:59 --> File loaded: application/views/template/header.php
+DEBUG - 2013-06-03 17:05:59 --> File loaded: application/views/company/view.php
+DEBUG - 2013-06-03 17:05:59 --> File loaded: application/views/template/footer.php
+DEBUG - 2013-06-03 17:05:59 --> File loaded: application/views/template/view.php
+DEBUG - 2013-06-03 17:05:59 --> Final output sent to browser
+DEBUG - 2013-06-03 17:05:59 --> Total execution time: 0.3799
+DEBUG - 2013-06-03 17:06:31 --> Config Class Initialized
+DEBUG - 2013-06-03 17:06:31 --> Hooks Class Initialized
+DEBUG - 2013-06-03 17:06:31 --> Utf8 Class Initialized
+DEBUG - 2013-06-03 17:06:31 --> UTF-8 Support Enabled
+DEBUG - 2013-06-03 17:06:31 --> URI Class Initialized
+DEBUG - 2013-06-03 17:06:31 --> Router Class Initialized
+DEBUG - 2013-06-03 17:06:31 --> Output Class Initialized
+DEBUG - 2013-06-03 17:06:31 --> Security Class Initialized
+DEBUG - 2013-06-03 17:06:31 --> Input Class Initialized
+DEBUG - 2013-06-03 17:06:31 --> XSS Filtering completed
+DEBUG - 2013-06-03 17:06:31 --> XSS Filtering completed
+DEBUG - 2013-06-03 17:06:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-03 17:06:31 --> Language Class Initialized
+DEBUG - 2013-06-03 17:06:31 --> Loader Class Initialized
+DEBUG - 2013-06-03 17:06:31 --> Config file loaded: application/config/datatables.php
+DEBUG - 2013-06-03 17:06:31 --> Helper loaded: url_helper
+DEBUG - 2013-06-03 17:06:31 --> Helper loaded: file_helper
+DEBUG - 2013-06-03 17:06:31 --> Helper loaded: inflector_helper
+DEBUG - 2013-06-03 17:06:31 --> Helper loaded: language_helper
+DEBUG - 2013-06-03 17:06:31 --> Helper loaded: string_helper
+DEBUG - 2013-06-03 17:06:31 --> Helper loaded: form_helper
+DEBUG - 2013-06-03 17:06:31 --> Helper loaded: ajaxcheck_helper
+DEBUG - 2013-06-03 17:06:31 --> Session Class Initialized
+DEBUG - 2013-06-03 17:06:31 --> Encrypt Class Initialized
+DEBUG - 2013-06-03 17:06:31 --> Session routines successfully run
+DEBUG - 2013-06-03 17:06:31 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2013-06-03 17:06:31 --> Controller Class Initialized
+DEBUG - 2013-06-03 17:06:31 --> Model Class Initialized
+DEBUG - 2013-06-03 17:06:31 --> Model Class Initialized
+ERROR - 2013-06-03 17:06:31 --> Could not find the language line "dt_search_placeholder"
+ERROR - 2013-06-03 17:06:31 --> Could not find the language line "dt_export"
+ERROR - 2013-06-03 17:06:31 --> Could not find the language line "dt_columns"
+ERROR - 2013-06-03 17:06:31 --> Could not find the language line "dt_first"
+ERROR - 2013-06-03 17:06:31 --> Could not find the language line "dt_last"
+ERROR - 2013-06-03 17:06:31 --> Could not find the language line "dt_next"
+ERROR - 2013-06-03 17:06:31 --> Could not find the language line "dt_previous"
+ERROR - 2013-06-03 17:06:31 --> Could not find the language line "dt_empty_table"
+ERROR - 2013-06-03 17:06:31 --> Could not find the language line "dt_info"
+ERROR - 2013-06-03 17:06:31 --> Could not find the language line "dt_info_empty"
+ERROR - 2013-06-03 17:06:31 --> Could not find the language line "dt_info_filtered"
+ERROR - 2013-06-03 17:06:31 --> Could not find the language line "dt_info_postfix"
+ERROR - 2013-06-03 17:06:31 --> Could not find the language line "dt_length_menu"
+ERROR - 2013-06-03 17:06:31 --> Could not find the language line "dt_loading_records"
+ERROR - 2013-06-03 17:06:31 --> Could not find the language line "dt_processing"
+ERROR - 2013-06-03 17:06:31 --> Could not find the language line "dt_search"
+ERROR - 2013-06-03 17:06:31 --> Could not find the language line "dt_zero_records"
+DEBUG - 2013-06-03 17:06:31 --> File loaded: application/views/template/debug.php
+DEBUG - 2013-06-03 17:06:31 --> File loaded: application/views/template/head.php
+DEBUG - 2013-06-03 17:06:31 --> File loaded: application/views/template/header.php
+DEBUG - 2013-06-03 17:06:31 --> File loaded: application/views/company/view.php
+DEBUG - 2013-06-03 17:06:31 --> File loaded: application/views/template/footer.php
+DEBUG - 2013-06-03 17:06:31 --> File loaded: application/views/template/view.php
+DEBUG - 2013-06-03 17:06:31 --> Final output sent to browser
+DEBUG - 2013-06-03 17:06:31 --> Total execution time: 0.1563
+DEBUG - 2013-06-03 17:10:07 --> Config Class Initialized
+DEBUG - 2013-06-03 17:10:07 --> Hooks Class Initialized
+DEBUG - 2013-06-03 17:10:07 --> Utf8 Class Initialized
+DEBUG - 2013-06-03 17:10:07 --> UTF-8 Support Enabled
+DEBUG - 2013-06-03 17:10:07 --> URI Class Initialized
+DEBUG - 2013-06-03 17:10:07 --> Router Class Initialized
+DEBUG - 2013-06-03 17:10:07 --> Output Class Initialized
+DEBUG - 2013-06-03 17:10:07 --> Security Class Initialized
+DEBUG - 2013-06-03 17:10:07 --> Input Class Initialized
+DEBUG - 2013-06-03 17:10:07 --> XSS Filtering completed
+DEBUG - 2013-06-03 17:10:07 --> XSS Filtering completed
+DEBUG - 2013-06-03 17:10:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-03 17:10:07 --> Language Class Initialized
+DEBUG - 2013-06-03 17:10:07 --> Loader Class Initialized
+DEBUG - 2013-06-03 17:10:07 --> Config file loaded: application/config/datatables.php
+DEBUG - 2013-06-03 17:10:07 --> Helper loaded: url_helper
+DEBUG - 2013-06-03 17:10:07 --> Helper loaded: file_helper
+DEBUG - 2013-06-03 17:10:07 --> Helper loaded: inflector_helper
+DEBUG - 2013-06-03 17:10:07 --> Helper loaded: language_helper
+DEBUG - 2013-06-03 17:10:07 --> Helper loaded: string_helper
+DEBUG - 2013-06-03 17:10:07 --> Helper loaded: form_helper
+DEBUG - 2013-06-03 17:10:07 --> Helper loaded: ajaxcheck_helper
+DEBUG - 2013-06-03 17:10:07 --> Session Class Initialized
+DEBUG - 2013-06-03 17:10:07 --> Encrypt Class Initialized
+DEBUG - 2013-06-03 17:10:07 --> Session routines successfully run
+DEBUG - 2013-06-03 17:10:07 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2013-06-03 17:10:07 --> Controller Class Initialized
+DEBUG - 2013-06-03 17:10:07 --> Model Class Initialized
+DEBUG - 2013-06-03 17:10:07 --> Model Class Initialized
+ERROR - 2013-06-03 17:10:07 --> Could not find the language line "dt_search_placeholder"
+ERROR - 2013-06-03 17:10:07 --> Could not find the language line "dt_export"
+ERROR - 2013-06-03 17:10:07 --> Could not find the language line "dt_columns"
+ERROR - 2013-06-03 17:10:07 --> Could not find the language line "dt_first"
+ERROR - 2013-06-03 17:10:07 --> Could not find the language line "dt_last"
+ERROR - 2013-06-03 17:10:07 --> Could not find the language line "dt_next"
+ERROR - 2013-06-03 17:10:07 --> Could not find the language line "dt_previous"
+ERROR - 2013-06-03 17:10:07 --> Could not find the language line "dt_empty_table"
+ERROR - 2013-06-03 17:10:07 --> Could not find the language line "dt_info"
+ERROR - 2013-06-03 17:10:07 --> Could not find the language line "dt_info_empty"
+ERROR - 2013-06-03 17:10:07 --> Could not find the language line "dt_info_filtered"
+ERROR - 2013-06-03 17:10:07 --> Could not find the language line "dt_info_postfix"
+ERROR - 2013-06-03 17:10:07 --> Could not find the language line "dt_length_menu"
+ERROR - 2013-06-03 17:10:07 --> Could not find the language line "dt_loading_records"
+ERROR - 2013-06-03 17:10:07 --> Could not find the language line "dt_processing"
+ERROR - 2013-06-03 17:10:07 --> Could not find the language line "dt_search"
+ERROR - 2013-06-03 17:10:07 --> Could not find the language line "dt_zero_records"
+DEBUG - 2013-06-03 17:10:07 --> File loaded: application/views/template/debug.php
+DEBUG - 2013-06-03 17:10:07 --> File loaded: application/views/template/head.php
+DEBUG - 2013-06-03 17:10:07 --> File loaded: application/views/template/header.php
+DEBUG - 2013-06-03 17:10:07 --> File loaded: application/views/company/view.php
+DEBUG - 2013-06-03 17:10:07 --> File loaded: application/views/template/footer.php
+DEBUG - 2013-06-03 17:10:07 --> File loaded: application/views/template/view.php
+DEBUG - 2013-06-03 17:10:07 --> Final output sent to browser
+DEBUG - 2013-06-03 17:10:07 --> Total execution time: 0.3783
+DEBUG - 2013-06-03 17:11:14 --> Config Class Initialized
+DEBUG - 2013-06-03 17:11:14 --> Hooks Class Initialized
+DEBUG - 2013-06-03 17:11:14 --> Utf8 Class Initialized
+DEBUG - 2013-06-03 17:11:14 --> UTF-8 Support Enabled
+DEBUG - 2013-06-03 17:11:14 --> URI Class Initialized
+DEBUG - 2013-06-03 17:11:14 --> Router Class Initialized
+DEBUG - 2013-06-03 17:11:14 --> Output Class Initialized
+DEBUG - 2013-06-03 17:11:14 --> Security Class Initialized
+DEBUG - 2013-06-03 17:11:14 --> Input Class Initialized
+DEBUG - 2013-06-03 17:11:14 --> XSS Filtering completed
+DEBUG - 2013-06-03 17:11:14 --> XSS Filtering completed
+DEBUG - 2013-06-03 17:11:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-03 17:11:14 --> Language Class Initialized
+DEBUG - 2013-06-03 17:11:14 --> Loader Class Initialized
+DEBUG - 2013-06-03 17:11:14 --> Config file loaded: application/config/datatables.php
+DEBUG - 2013-06-03 17:11:14 --> Helper loaded: url_helper
+DEBUG - 2013-06-03 17:11:14 --> Helper loaded: file_helper
+DEBUG - 2013-06-03 17:11:14 --> Helper loaded: inflector_helper
+DEBUG - 2013-06-03 17:11:14 --> Helper loaded: language_helper
+DEBUG - 2013-06-03 17:11:14 --> Helper loaded: string_helper
+DEBUG - 2013-06-03 17:11:14 --> Helper loaded: form_helper
+DEBUG - 2013-06-03 17:11:14 --> Helper loaded: ajaxcheck_helper
+DEBUG - 2013-06-03 17:11:14 --> Session Class Initialized
+DEBUG - 2013-06-03 17:11:14 --> Encrypt Class Initialized
+DEBUG - 2013-06-03 17:11:15 --> Session routines successfully run
+DEBUG - 2013-06-03 17:11:15 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2013-06-03 17:11:15 --> Controller Class Initialized
+DEBUG - 2013-06-03 17:11:15 --> Model Class Initialized
+DEBUG - 2013-06-03 17:11:15 --> Model Class Initialized
+ERROR - 2013-06-03 17:11:15 --> Could not find the language line "dt_search_placeholder"
+ERROR - 2013-06-03 17:11:15 --> Could not find the language line "dt_export"
+ERROR - 2013-06-03 17:11:15 --> Could not find the language line "dt_columns"
+ERROR - 2013-06-03 17:11:15 --> Could not find the language line "dt_first"
+ERROR - 2013-06-03 17:11:15 --> Could not find the language line "dt_last"
+ERROR - 2013-06-03 17:11:15 --> Could not find the language line "dt_next"
+ERROR - 2013-06-03 17:11:15 --> Could not find the language line "dt_previous"
+ERROR - 2013-06-03 17:11:15 --> Could not find the language line "dt_empty_table"
+ERROR - 2013-06-03 17:11:15 --> Could not find the language line "dt_info"
+ERROR - 2013-06-03 17:11:15 --> Could not find the language line "dt_info_empty"
+ERROR - 2013-06-03 17:11:15 --> Could not find the language line "dt_info_filtered"
+ERROR - 2013-06-03 17:11:15 --> Could not find the language line "dt_info_postfix"
+ERROR - 2013-06-03 17:11:15 --> Could not find the language line "dt_length_menu"
+ERROR - 2013-06-03 17:11:15 --> Could not find the language line "dt_loading_records"
+ERROR - 2013-06-03 17:11:15 --> Could not find the language line "dt_processing"
+ERROR - 2013-06-03 17:11:15 --> Could not find the language line "dt_search"
+ERROR - 2013-06-03 17:11:15 --> Could not find the language line "dt_zero_records"
+DEBUG - 2013-06-03 17:11:15 --> File loaded: application/views/template/debug.php
+DEBUG - 2013-06-03 17:11:15 --> File loaded: application/views/template/head.php
+DEBUG - 2013-06-03 17:11:15 --> File loaded: application/views/template/header.php
+DEBUG - 2013-06-03 17:11:15 --> File loaded: application/views/company/view.php
+DEBUG - 2013-06-03 17:11:15 --> File loaded: application/views/template/footer.php
+DEBUG - 2013-06-03 17:11:15 --> File loaded: application/views/template/view.php
+DEBUG - 2013-06-03 17:11:15 --> Final output sent to browser
+DEBUG - 2013-06-03 17:11:15 --> Total execution time: 0.5665
+DEBUG - 2013-06-03 17:12:16 --> Config Class Initialized
+DEBUG - 2013-06-03 17:12:16 --> Hooks Class Initialized
+DEBUG - 2013-06-03 17:12:16 --> Utf8 Class Initialized
+DEBUG - 2013-06-03 17:12:16 --> UTF-8 Support Enabled
+DEBUG - 2013-06-03 17:12:16 --> URI Class Initialized
+DEBUG - 2013-06-03 17:12:16 --> Router Class Initialized
+DEBUG - 2013-06-03 17:12:16 --> Output Class Initialized
+DEBUG - 2013-06-03 17:12:16 --> Security Class Initialized
+DEBUG - 2013-06-03 17:12:16 --> Input Class Initialized
+DEBUG - 2013-06-03 17:12:16 --> XSS Filtering completed
+DEBUG - 2013-06-03 17:12:16 --> XSS Filtering completed
+DEBUG - 2013-06-03 17:12:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-03 17:12:16 --> Language Class Initialized
+DEBUG - 2013-06-03 17:12:16 --> Loader Class Initialized
+DEBUG - 2013-06-03 17:12:16 --> Config file loaded: application/config/datatables.php
+DEBUG - 2013-06-03 17:12:16 --> Helper loaded: url_helper
+DEBUG - 2013-06-03 17:12:16 --> Helper loaded: file_helper
+DEBUG - 2013-06-03 17:12:16 --> Helper loaded: inflector_helper
+DEBUG - 2013-06-03 17:12:16 --> Helper loaded: language_helper
+DEBUG - 2013-06-03 17:12:16 --> Helper loaded: string_helper
+DEBUG - 2013-06-03 17:12:16 --> Helper loaded: form_helper
+DEBUG - 2013-06-03 17:12:16 --> Helper loaded: ajaxcheck_helper
+DEBUG - 2013-06-03 17:12:16 --> Session Class Initialized
+DEBUG - 2013-06-03 17:12:16 --> Encrypt Class Initialized
+DEBUG - 2013-06-03 17:12:17 --> Session routines successfully run
+DEBUG - 2013-06-03 17:12:17 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2013-06-03 17:12:17 --> Controller Class Initialized
+DEBUG - 2013-06-03 17:12:17 --> Model Class Initialized
+DEBUG - 2013-06-03 17:12:17 --> Model Class Initialized
+ERROR - 2013-06-03 17:12:17 --> Could not find the language line "dt_search_placeholder"
+ERROR - 2013-06-03 17:12:17 --> Could not find the language line "dt_export"
+ERROR - 2013-06-03 17:12:17 --> Could not find the language line "dt_columns"
+ERROR - 2013-06-03 17:12:17 --> Could not find the language line "dt_first"
+ERROR - 2013-06-03 17:12:17 --> Could not find the language line "dt_last"
+ERROR - 2013-06-03 17:12:17 --> Could not find the language line "dt_next"
+ERROR - 2013-06-03 17:12:17 --> Could not find the language line "dt_previous"
+ERROR - 2013-06-03 17:12:17 --> Could not find the language line "dt_empty_table"
+ERROR - 2013-06-03 17:12:17 --> Could not find the language line "dt_info"
+ERROR - 2013-06-03 17:12:17 --> Could not find the language line "dt_info_empty"
+ERROR - 2013-06-03 17:12:17 --> Could not find the language line "dt_info_filtered"
+ERROR - 2013-06-03 17:12:17 --> Could not find the language line "dt_info_postfix"
+ERROR - 2013-06-03 17:12:17 --> Could not find the language line "dt_length_menu"
+ERROR - 2013-06-03 17:12:17 --> Could not find the language line "dt_loading_records"
+ERROR - 2013-06-03 17:12:17 --> Could not find the language line "dt_processing"
+ERROR - 2013-06-03 17:12:17 --> Could not find the language line "dt_search"
+ERROR - 2013-06-03 17:12:17 --> Could not find the language line "dt_zero_records"
+DEBUG - 2013-06-03 17:12:17 --> File loaded: application/views/template/debug.php
+DEBUG - 2013-06-03 17:12:17 --> File loaded: application/views/template/head.php
+DEBUG - 2013-06-03 17:12:17 --> File loaded: application/views/template/header.php
+DEBUG - 2013-06-03 17:12:17 --> File loaded: application/views/company/view.php
+DEBUG - 2013-06-03 17:12:17 --> File loaded: application/views/template/footer.php
+DEBUG - 2013-06-03 17:12:17 --> File loaded: application/views/template/view.php
+DEBUG - 2013-06-03 17:12:17 --> Final output sent to browser
+DEBUG - 2013-06-03 17:12:17 --> Total execution time: 0.5948
+DEBUG - 2013-06-03 17:12:38 --> Config Class Initialized
+DEBUG - 2013-06-03 17:12:38 --> Hooks Class Initialized
+DEBUG - 2013-06-03 17:12:38 --> Utf8 Class Initialized
+DEBUG - 2013-06-03 17:12:38 --> UTF-8 Support Enabled
+DEBUG - 2013-06-03 17:12:38 --> URI Class Initialized
+DEBUG - 2013-06-03 17:12:38 --> Router Class Initialized
+DEBUG - 2013-06-03 17:12:38 --> Output Class Initialized
+DEBUG - 2013-06-03 17:12:38 --> Security Class Initialized
+DEBUG - 2013-06-03 17:12:39 --> Input Class Initialized
+DEBUG - 2013-06-03 17:12:39 --> XSS Filtering completed
+DEBUG - 2013-06-03 17:12:39 --> XSS Filtering completed
+DEBUG - 2013-06-03 17:12:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-03 17:12:39 --> Language Class Initialized
+DEBUG - 2013-06-03 17:12:39 --> Loader Class Initialized
+DEBUG - 2013-06-03 17:12:39 --> Config file loaded: application/config/datatables.php
+DEBUG - 2013-06-03 17:12:39 --> Helper loaded: url_helper
+DEBUG - 2013-06-03 17:12:39 --> Helper loaded: file_helper
+DEBUG - 2013-06-03 17:12:39 --> Helper loaded: inflector_helper
+DEBUG - 2013-06-03 17:12:39 --> Helper loaded: language_helper
+DEBUG - 2013-06-03 17:12:39 --> Helper loaded: string_helper
+DEBUG - 2013-06-03 17:12:39 --> Helper loaded: form_helper
+DEBUG - 2013-06-03 17:12:39 --> Helper loaded: ajaxcheck_helper
+DEBUG - 2013-06-03 17:12:39 --> Session Class Initialized
+DEBUG - 2013-06-03 17:12:39 --> Encrypt Class Initialized
+DEBUG - 2013-06-03 17:12:39 --> Session routines successfully run
+DEBUG - 2013-06-03 17:12:39 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2013-06-03 17:12:39 --> Controller Class Initialized
+DEBUG - 2013-06-03 17:12:39 --> Model Class Initialized
+DEBUG - 2013-06-03 17:12:39 --> Model Class Initialized
+ERROR - 2013-06-03 17:12:39 --> Could not find the language line "dt_search_placeholder"
+ERROR - 2013-06-03 17:12:39 --> Could not find the language line "dt_export"
+ERROR - 2013-06-03 17:12:39 --> Could not find the language line "dt_columns"
+ERROR - 2013-06-03 17:12:39 --> Could not find the language line "dt_first"
+ERROR - 2013-06-03 17:12:39 --> Could not find the language line "dt_last"
+ERROR - 2013-06-03 17:12:39 --> Could not find the language line "dt_next"
+ERROR - 2013-06-03 17:12:39 --> Could not find the language line "dt_previous"
+ERROR - 2013-06-03 17:12:39 --> Could not find the language line "dt_empty_table"
+ERROR - 2013-06-03 17:12:39 --> Could not find the language line "dt_info"
+ERROR - 2013-06-03 17:12:39 --> Could not find the language line "dt_info_empty"
+ERROR - 2013-06-03 17:12:39 --> Could not find the language line "dt_info_filtered"
+ERROR - 2013-06-03 17:12:39 --> Could not find the language line "dt_info_postfix"
+ERROR - 2013-06-03 17:12:39 --> Could not find the language line "dt_length_menu"
+ERROR - 2013-06-03 17:12:39 --> Could not find the language line "dt_loading_records"
+ERROR - 2013-06-03 17:12:39 --> Could not find the language line "dt_processing"
+ERROR - 2013-06-03 17:12:39 --> Could not find the language line "dt_search"
+ERROR - 2013-06-03 17:12:39 --> Could not find the language line "dt_zero_records"
+DEBUG - 2013-06-03 17:12:39 --> File loaded: application/views/template/debug.php
+DEBUG - 2013-06-03 17:12:39 --> File loaded: application/views/template/head.php
+DEBUG - 2013-06-03 17:12:39 --> File loaded: application/views/template/header.php
+DEBUG - 2013-06-03 17:12:39 --> File loaded: application/views/company/view.php
+DEBUG - 2013-06-03 17:12:39 --> File loaded: application/views/template/footer.php
+DEBUG - 2013-06-03 17:12:39 --> File loaded: application/views/template/view.php
+DEBUG - 2013-06-03 17:12:39 --> Final output sent to browser
+DEBUG - 2013-06-03 17:12:39 --> Total execution time: 0.2442
+DEBUG - 2013-06-03 17:13:02 --> Config Class Initialized
+DEBUG - 2013-06-03 17:13:02 --> Hooks Class Initialized
+DEBUG - 2013-06-03 17:13:02 --> Utf8 Class Initialized
+DEBUG - 2013-06-03 17:13:02 --> UTF-8 Support Enabled
+DEBUG - 2013-06-03 17:13:02 --> URI Class Initialized
+DEBUG - 2013-06-03 17:13:02 --> Router Class Initialized
+DEBUG - 2013-06-03 17:13:02 --> Output Class Initialized
+DEBUG - 2013-06-03 17:13:02 --> Security Class Initialized
+DEBUG - 2013-06-03 17:13:02 --> Input Class Initialized
+DEBUG - 2013-06-03 17:13:02 --> XSS Filtering completed
+DEBUG - 2013-06-03 17:13:02 --> XSS Filtering completed
+DEBUG - 2013-06-03 17:13:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-03 17:13:02 --> Language Class Initialized
+DEBUG - 2013-06-03 17:13:02 --> Loader Class Initialized
+DEBUG - 2013-06-03 17:13:02 --> Config file loaded: application/config/datatables.php
+DEBUG - 2013-06-03 17:13:02 --> Helper loaded: url_helper
+DEBUG - 2013-06-03 17:13:02 --> Helper loaded: file_helper
+DEBUG - 2013-06-03 17:13:02 --> Helper loaded: inflector_helper
+DEBUG - 2013-06-03 17:13:02 --> Helper loaded: language_helper
+DEBUG - 2013-06-03 17:13:02 --> Helper loaded: string_helper
+DEBUG - 2013-06-03 17:13:02 --> Helper loaded: form_helper
+DEBUG - 2013-06-03 17:13:02 --> Helper loaded: ajaxcheck_helper
+DEBUG - 2013-06-03 17:13:02 --> Session Class Initialized
+DEBUG - 2013-06-03 17:13:02 --> Encrypt Class Initialized
+DEBUG - 2013-06-03 17:13:02 --> Session routines successfully run
+DEBUG - 2013-06-03 17:13:02 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2013-06-03 17:13:02 --> Controller Class Initialized
+DEBUG - 2013-06-03 17:13:02 --> Model Class Initialized
+DEBUG - 2013-06-03 17:13:02 --> Model Class Initialized
+ERROR - 2013-06-03 17:13:02 --> Could not find the language line "dt_search_placeholder"
+ERROR - 2013-06-03 17:13:02 --> Could not find the language line "dt_export"
+ERROR - 2013-06-03 17:13:02 --> Could not find the language line "dt_columns"
+ERROR - 2013-06-03 17:13:02 --> Could not find the language line "dt_first"
+ERROR - 2013-06-03 17:13:02 --> Could not find the language line "dt_last"
+ERROR - 2013-06-03 17:13:02 --> Could not find the language line "dt_next"
+ERROR - 2013-06-03 17:13:02 --> Could not find the language line "dt_previous"
+ERROR - 2013-06-03 17:13:02 --> Could not find the language line "dt_empty_table"
+ERROR - 2013-06-03 17:13:02 --> Could not find the language line "dt_info"
+ERROR - 2013-06-03 17:13:02 --> Could not find the language line "dt_info_empty"
+ERROR - 2013-06-03 17:13:02 --> Could not find the language line "dt_info_filtered"
+ERROR - 2013-06-03 17:13:02 --> Could not find the language line "dt_info_postfix"
+ERROR - 2013-06-03 17:13:02 --> Could not find the language line "dt_length_menu"
+ERROR - 2013-06-03 17:13:02 --> Could not find the language line "dt_loading_records"
+ERROR - 2013-06-03 17:13:02 --> Could not find the language line "dt_processing"
+ERROR - 2013-06-03 17:13:02 --> Could not find the language line "dt_search"
+ERROR - 2013-06-03 17:13:02 --> Could not find the language line "dt_zero_records"
+DEBUG - 2013-06-03 17:13:02 --> File loaded: application/views/template/debug.php
+DEBUG - 2013-06-03 17:13:02 --> File loaded: application/views/template/head.php
+DEBUG - 2013-06-03 17:13:02 --> File loaded: application/views/template/header.php
+DEBUG - 2013-06-03 17:13:02 --> File loaded: application/views/company/view.php
+DEBUG - 2013-06-03 17:13:02 --> File loaded: application/views/template/footer.php
+DEBUG - 2013-06-03 17:13:02 --> File loaded: application/views/template/view.php
+DEBUG - 2013-06-03 17:13:02 --> Final output sent to browser
+DEBUG - 2013-06-03 17:13:02 --> Total execution time: 0.3409
+DEBUG - 2013-06-03 17:13:05 --> Config Class Initialized
+DEBUG - 2013-06-03 17:13:05 --> Hooks Class Initialized
+DEBUG - 2013-06-03 17:13:05 --> Utf8 Class Initialized
+DEBUG - 2013-06-03 17:13:05 --> UTF-8 Support Enabled
+DEBUG - 2013-06-03 17:13:05 --> URI Class Initialized
+DEBUG - 2013-06-03 17:13:05 --> Router Class Initialized
+DEBUG - 2013-06-03 17:13:05 --> No URI present. Default controller set.
+DEBUG - 2013-06-03 17:13:05 --> Output Class Initialized
+DEBUG - 2013-06-03 17:13:05 --> Security Class Initialized
+DEBUG - 2013-06-03 17:13:05 --> Input Class Initialized
+DEBUG - 2013-06-03 17:13:05 --> XSS Filtering completed
+DEBUG - 2013-06-03 17:13:05 --> XSS Filtering completed
+DEBUG - 2013-06-03 17:13:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-03 17:13:05 --> Language Class Initialized
+DEBUG - 2013-06-03 17:13:05 --> Loader Class Initialized
+DEBUG - 2013-06-03 17:13:05 --> Config file loaded: application/config/datatables.php
+DEBUG - 2013-06-03 17:13:05 --> Helper loaded: url_helper
+DEBUG - 2013-06-03 17:13:05 --> Helper loaded: file_helper
+DEBUG - 2013-06-03 17:13:05 --> Helper loaded: inflector_helper
+DEBUG - 2013-06-03 17:13:05 --> Helper loaded: language_helper
+DEBUG - 2013-06-03 17:13:05 --> Helper loaded: string_helper
+DEBUG - 2013-06-03 17:13:05 --> Helper loaded: form_helper
+DEBUG - 2013-06-03 17:13:05 --> Helper loaded: ajaxcheck_helper
+DEBUG - 2013-06-03 17:13:05 --> Session Class Initialized
+DEBUG - 2013-06-03 17:13:05 --> Encrypt Class Initialized
+DEBUG - 2013-06-03 17:13:05 --> Session routines successfully run
+DEBUG - 2013-06-03 17:13:05 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2013-06-03 17:13:05 --> Controller Class Initialized
+DEBUG - 2013-06-03 17:13:05 --> Helper loaded: auth_helper
+DEBUG - 2013-06-03 17:13:05 --> File loaded: application/views/template/debug.php
+DEBUG - 2013-06-03 17:13:05 --> File loaded: application/views/template/head.php
+DEBUG - 2013-06-03 17:13:05 --> File loaded: application/views/template/header.php
+DEBUG - 2013-06-03 17:13:05 --> File loaded: application/views/dashboard/view.php
+DEBUG - 2013-06-03 17:13:05 --> File loaded: application/views/template/footer.php
+DEBUG - 2013-06-03 17:13:05 --> File loaded: application/views/template/view.php
+DEBUG - 2013-06-03 17:13:05 --> Final output sent to browser
+DEBUG - 2013-06-03 17:13:05 --> Total execution time: 0.2413
+DEBUG - 2013-06-03 17:13:08 --> Config Class Initialized
+DEBUG - 2013-06-03 17:13:08 --> Hooks Class Initialized
+DEBUG - 2013-06-03 17:13:08 --> Utf8 Class Initialized
+DEBUG - 2013-06-03 17:13:08 --> UTF-8 Support Enabled
+DEBUG - 2013-06-03 17:13:08 --> URI Class Initialized
+DEBUG - 2013-06-03 17:13:08 --> Router Class Initialized
+DEBUG - 2013-06-03 17:13:08 --> Output Class Initialized
+DEBUG - 2013-06-03 17:13:08 --> Security Class Initialized
+DEBUG - 2013-06-03 17:13:08 --> Input Class Initialized
+DEBUG - 2013-06-03 17:13:08 --> XSS Filtering completed
+DEBUG - 2013-06-03 17:13:08 --> XSS Filtering completed
+DEBUG - 2013-06-03 17:13:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-03 17:13:08 --> Language Class Initialized
+DEBUG - 2013-06-03 17:13:08 --> Loader Class Initialized
+DEBUG - 2013-06-03 17:13:08 --> Config file loaded: application/config/datatables.php
+DEBUG - 2013-06-03 17:13:08 --> Helper loaded: url_helper
+DEBUG - 2013-06-03 17:13:08 --> Helper loaded: file_helper
+DEBUG - 2013-06-03 17:13:08 --> Helper loaded: inflector_helper
+DEBUG - 2013-06-03 17:13:08 --> Helper loaded: language_helper
+DEBUG - 2013-06-03 17:13:08 --> Helper loaded: string_helper
+DEBUG - 2013-06-03 17:13:08 --> Helper loaded: form_helper
+DEBUG - 2013-06-03 17:13:08 --> Helper loaded: ajaxcheck_helper
+DEBUG - 2013-06-03 17:13:08 --> Session Class Initialized
+DEBUG - 2013-06-03 17:13:08 --> Encrypt Class Initialized
+DEBUG - 2013-06-03 17:13:08 --> Session routines successfully run
+DEBUG - 2013-06-03 17:13:08 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2013-06-03 17:13:08 --> Controller Class Initialized
+DEBUG - 2013-06-03 17:13:08 --> Model Class Initialized
+DEBUG - 2013-06-03 17:13:08 --> Model Class Initialized
+ERROR - 2013-06-03 17:13:08 --> Could not find the language line "dt_search_placeholder"
+ERROR - 2013-06-03 17:13:08 --> Could not find the language line "dt_export"
+ERROR - 2013-06-03 17:13:08 --> Could not find the language line "dt_columns"
+ERROR - 2013-06-03 17:13:08 --> Could not find the language line "dt_first"
+ERROR - 2013-06-03 17:13:08 --> Could not find the language line "dt_last"
+ERROR - 2013-06-03 17:13:08 --> Could not find the language line "dt_next"
+ERROR - 2013-06-03 17:13:08 --> Could not find the language line "dt_previous"
+ERROR - 2013-06-03 17:13:08 --> Could not find the language line "dt_empty_table"
+ERROR - 2013-06-03 17:13:08 --> Could not find the language line "dt_info"
+ERROR - 2013-06-03 17:13:08 --> Could not find the language line "dt_info_empty"
+ERROR - 2013-06-03 17:13:08 --> Could not find the language line "dt_info_filtered"
+ERROR - 2013-06-03 17:13:08 --> Could not find the language line "dt_info_postfix"
+ERROR - 2013-06-03 17:13:08 --> Could not find the language line "dt_length_menu"
+ERROR - 2013-06-03 17:13:08 --> Could not find the language line "dt_loading_records"
+ERROR - 2013-06-03 17:13:08 --> Could not find the language line "dt_processing"
+ERROR - 2013-06-03 17:13:08 --> Could not find the language line "dt_search"
+ERROR - 2013-06-03 17:13:08 --> Could not find the language line "dt_zero_records"
+DEBUG - 2013-06-03 17:13:08 --> File loaded: application/views/template/debug.php
+DEBUG - 2013-06-03 17:13:08 --> File loaded: application/views/template/head.php
+DEBUG - 2013-06-03 17:13:08 --> File loaded: application/views/template/header.php
+DEBUG - 2013-06-03 17:13:08 --> File loaded: application/views/company/view.php
+DEBUG - 2013-06-03 17:13:08 --> File loaded: application/views/template/footer.php
+DEBUG - 2013-06-03 17:13:08 --> File loaded: application/views/template/view.php
+DEBUG - 2013-06-03 17:13:08 --> Final output sent to browser
+DEBUG - 2013-06-03 17:13:08 --> Total execution time: 0.1958
+DEBUG - 2013-06-03 17:13:11 --> Config Class Initialized
+DEBUG - 2013-06-03 17:13:11 --> Hooks Class Initialized
+DEBUG - 2013-06-03 17:13:11 --> Utf8 Class Initialized
+DEBUG - 2013-06-03 17:13:11 --> UTF-8 Support Enabled
+DEBUG - 2013-06-03 17:13:11 --> URI Class Initialized
+DEBUG - 2013-06-03 17:13:11 --> Router Class Initialized
+DEBUG - 2013-06-03 17:13:11 --> No URI present. Default controller set.
+DEBUG - 2013-06-03 17:13:11 --> Output Class Initialized
+DEBUG - 2013-06-03 17:13:11 --> Security Class Initialized
+DEBUG - 2013-06-03 17:13:11 --> Input Class Initialized
+DEBUG - 2013-06-03 17:13:11 --> XSS Filtering completed
+DEBUG - 2013-06-03 17:13:11 --> XSS Filtering completed
+DEBUG - 2013-06-03 17:13:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-03 17:13:11 --> Language Class Initialized
+DEBUG - 2013-06-03 17:13:11 --> Loader Class Initialized
+DEBUG - 2013-06-03 17:13:11 --> Config file loaded: application/config/datatables.php
+DEBUG - 2013-06-03 17:13:11 --> Helper loaded: url_helper
+DEBUG - 2013-06-03 17:13:11 --> Helper loaded: file_helper
+DEBUG - 2013-06-03 17:13:11 --> Helper loaded: inflector_helper
+DEBUG - 2013-06-03 17:13:11 --> Helper loaded: language_helper
+DEBUG - 2013-06-03 17:13:11 --> Helper loaded: string_helper
+DEBUG - 2013-06-03 17:13:11 --> Helper loaded: form_helper
+DEBUG - 2013-06-03 17:13:11 --> Helper loaded: ajaxcheck_helper
+DEBUG - 2013-06-03 17:13:11 --> Session Class Initialized
+DEBUG - 2013-06-03 17:13:11 --> Encrypt Class Initialized
+DEBUG - 2013-06-03 17:13:11 --> Session routines successfully run
+DEBUG - 2013-06-03 17:13:11 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2013-06-03 17:13:12 --> Controller Class Initialized
+DEBUG - 2013-06-03 17:13:12 --> Helper loaded: auth_helper
+DEBUG - 2013-06-03 17:13:12 --> File loaded: application/views/template/debug.php
+DEBUG - 2013-06-03 17:13:12 --> File loaded: application/views/template/head.php
+DEBUG - 2013-06-03 17:13:12 --> File loaded: application/views/template/header.php
+DEBUG - 2013-06-03 17:13:12 --> File loaded: application/views/dashboard/view.php
+DEBUG - 2013-06-03 17:13:12 --> File loaded: application/views/template/footer.php
+DEBUG - 2013-06-03 17:13:12 --> File loaded: application/views/template/view.php
+DEBUG - 2013-06-03 17:13:12 --> Final output sent to browser
+DEBUG - 2013-06-03 17:13:12 --> Total execution time: 0.2928
+DEBUG - 2013-06-03 17:13:46 --> Config Class Initialized
+DEBUG - 2013-06-03 17:13:46 --> Hooks Class Initialized
+DEBUG - 2013-06-03 17:13:46 --> Utf8 Class Initialized
+DEBUG - 2013-06-03 17:13:46 --> UTF-8 Support Enabled
+DEBUG - 2013-06-03 17:13:46 --> URI Class Initialized
+DEBUG - 2013-06-03 17:13:46 --> Router Class Initialized
+DEBUG - 2013-06-03 17:13:46 --> Output Class Initialized
+DEBUG - 2013-06-03 17:13:46 --> Security Class Initialized
+DEBUG - 2013-06-03 17:13:46 --> Input Class Initialized
+DEBUG - 2013-06-03 17:13:46 --> XSS Filtering completed
+DEBUG - 2013-06-03 17:13:46 --> XSS Filtering completed
+DEBUG - 2013-06-03 17:13:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-03 17:13:46 --> Language Class Initialized
+DEBUG - 2013-06-03 17:13:46 --> Loader Class Initialized
+DEBUG - 2013-06-03 17:13:46 --> Config file loaded: application/config/datatables.php
+DEBUG - 2013-06-03 17:13:46 --> Helper loaded: url_helper
+DEBUG - 2013-06-03 17:13:46 --> Helper loaded: file_helper
+DEBUG - 2013-06-03 17:13:47 --> Helper loaded: inflector_helper
+DEBUG - 2013-06-03 17:13:47 --> Helper loaded: language_helper
+DEBUG - 2013-06-03 17:13:47 --> Helper loaded: string_helper
+DEBUG - 2013-06-03 17:13:47 --> Helper loaded: form_helper
+DEBUG - 2013-06-03 17:13:47 --> Helper loaded: ajaxcheck_helper
+DEBUG - 2013-06-03 17:13:47 --> Session Class Initialized
+DEBUG - 2013-06-03 17:13:47 --> Encrypt Class Initialized
+DEBUG - 2013-06-03 17:13:47 --> Session routines successfully run
+DEBUG - 2013-06-03 17:13:47 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2013-06-03 17:13:47 --> Controller Class Initialized
+DEBUG - 2013-06-03 17:13:47 --> Model Class Initialized
+DEBUG - 2013-06-03 17:13:47 --> Model Class Initialized
+ERROR - 2013-06-03 17:13:47 --> Could not find the language line "dt_search_placeholder"
+ERROR - 2013-06-03 17:13:47 --> Could not find the language line "dt_export"
+ERROR - 2013-06-03 17:13:47 --> Could not find the language line "dt_columns"
+ERROR - 2013-06-03 17:13:47 --> Could not find the language line "dt_first"
+ERROR - 2013-06-03 17:13:47 --> Could not find the language line "dt_last"
+ERROR - 2013-06-03 17:13:47 --> Could not find the language line "dt_next"
+ERROR - 2013-06-03 17:13:47 --> Could not find the language line "dt_previous"
+ERROR - 2013-06-03 17:13:47 --> Could not find the language line "dt_empty_table"
+ERROR - 2013-06-03 17:13:47 --> Could not find the language line "dt_info"
+ERROR - 2013-06-03 17:13:47 --> Could not find the language line "dt_info_empty"
+ERROR - 2013-06-03 17:13:47 --> Could not find the language line "dt_info_filtered"
+ERROR - 2013-06-03 17:13:47 --> Could not find the language line "dt_info_postfix"
+ERROR - 2013-06-03 17:13:47 --> Could not find the language line "dt_length_menu"
+ERROR - 2013-06-03 17:13:47 --> Could not find the language line "dt_loading_records"
+ERROR - 2013-06-03 17:13:47 --> Could not find the language line "dt_processing"
+ERROR - 2013-06-03 17:13:47 --> Could not find the language line "dt_search"
+ERROR - 2013-06-03 17:13:47 --> Could not find the language line "dt_zero_records"
+DEBUG - 2013-06-03 17:13:47 --> File loaded: application/views/template/debug.php
+DEBUG - 2013-06-03 17:13:47 --> File loaded: application/views/template/head.php
+DEBUG - 2013-06-03 17:13:47 --> File loaded: application/views/template/header.php
+DEBUG - 2013-06-03 17:13:47 --> File loaded: application/views/company/view.php
+DEBUG - 2013-06-03 17:13:47 --> File loaded: application/views/template/footer.php
+DEBUG - 2013-06-03 17:13:47 --> File loaded: application/views/template/view.php
+DEBUG - 2013-06-03 17:13:47 --> Final output sent to browser
+DEBUG - 2013-06-03 17:13:47 --> Total execution time: 0.7138
+DEBUG - 2013-06-03 19:00:18 --> Config Class Initialized
+DEBUG - 2013-06-03 19:00:18 --> Hooks Class Initialized
+DEBUG - 2013-06-03 19:00:18 --> Utf8 Class Initialized
+DEBUG - 2013-06-03 19:00:19 --> UTF-8 Support Enabled
+DEBUG - 2013-06-03 19:00:19 --> URI Class Initialized
+DEBUG - 2013-06-03 19:00:19 --> Router Class Initialized
+DEBUG - 2013-06-03 19:00:19 --> No URI present. Default controller set.
+DEBUG - 2013-06-03 19:00:19 --> Output Class Initialized
+DEBUG - 2013-06-03 19:00:20 --> Security Class Initialized
+DEBUG - 2013-06-03 19:00:20 --> Input Class Initialized
+DEBUG - 2013-06-03 19:00:20 --> XSS Filtering completed
+DEBUG - 2013-06-03 19:00:21 --> XSS Filtering completed
+DEBUG - 2013-06-03 19:00:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-03 19:00:21 --> Language Class Initialized
+DEBUG - 2013-06-03 19:00:22 --> Loader Class Initialized
+DEBUG - 2013-06-03 19:00:22 --> Config file loaded: application/config/datatables.php
+DEBUG - 2013-06-03 19:00:22 --> Helper loaded: url_helper
+DEBUG - 2013-06-03 19:00:23 --> Helper loaded: file_helper
+DEBUG - 2013-06-03 19:00:23 --> Helper loaded: inflector_helper
+DEBUG - 2013-06-03 19:00:23 --> Helper loaded: language_helper
+DEBUG - 2013-06-03 19:00:23 --> Helper loaded: string_helper
+DEBUG - 2013-06-03 19:00:23 --> Helper loaded: form_helper
+DEBUG - 2013-06-03 19:00:23 --> Helper loaded: ajaxcheck_helper
+DEBUG - 2013-06-03 19:00:24 --> Session Class Initialized
+DEBUG - 2013-06-03 19:00:25 --> Encrypt Class Initialized
+DEBUG - 2013-06-03 19:00:26 --> Session routines successfully run
+DEBUG - 2013-06-03 19:00:27 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2013-06-03 19:00:28 --> Controller Class Initialized
+DEBUG - 2013-06-03 19:00:28 --> Helper loaded: auth_helper
+DEBUG - 2013-06-03 19:00:28 --> File loaded: application/views/template/debug.php
+DEBUG - 2013-06-03 19:00:28 --> File loaded: application/views/template/head.php
+DEBUG - 2013-06-03 19:00:28 --> File loaded: application/views/template/header.php
+DEBUG - 2013-06-03 19:00:28 --> File loaded: application/views/dashboard/view.php
+DEBUG - 2013-06-03 19:00:28 --> File loaded: application/views/template/footer.php
+DEBUG - 2013-06-03 19:00:28 --> File loaded: application/views/template/view.php
+DEBUG - 2013-06-03 19:00:28 --> Final output sent to browser
+DEBUG - 2013-06-03 19:00:28 --> Total execution time: 10.5190
+DEBUG - 2013-06-03 19:01:37 --> Config Class Initialized
+DEBUG - 2013-06-03 19:01:37 --> Hooks Class Initialized
+DEBUG - 2013-06-03 19:01:37 --> Utf8 Class Initialized
+DEBUG - 2013-06-03 19:01:37 --> UTF-8 Support Enabled
+DEBUG - 2013-06-03 19:01:37 --> URI Class Initialized
+DEBUG - 2013-06-03 19:01:37 --> Router Class Initialized
+DEBUG - 2013-06-03 19:01:37 --> No URI present. Default controller set.
+DEBUG - 2013-06-03 19:01:37 --> Output Class Initialized
+DEBUG - 2013-06-03 19:01:37 --> Security Class Initialized
+DEBUG - 2013-06-03 19:01:37 --> Input Class Initialized
+DEBUG - 2013-06-03 19:01:37 --> XSS Filtering completed
+DEBUG - 2013-06-03 19:01:37 --> XSS Filtering completed
+DEBUG - 2013-06-03 19:01:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-03 19:01:37 --> Language Class Initialized
+DEBUG - 2013-06-03 19:01:37 --> Loader Class Initialized
+DEBUG - 2013-06-03 19:01:37 --> Config file loaded: application/config/datatables.php
+DEBUG - 2013-06-03 19:01:37 --> Helper loaded: url_helper
+DEBUG - 2013-06-03 19:01:37 --> Helper loaded: file_helper
+DEBUG - 2013-06-03 19:01:37 --> Helper loaded: inflector_helper
+DEBUG - 2013-06-03 19:01:37 --> Helper loaded: language_helper
+DEBUG - 2013-06-03 19:01:37 --> Helper loaded: string_helper
+DEBUG - 2013-06-03 19:01:37 --> Helper loaded: form_helper
+DEBUG - 2013-06-03 19:01:37 --> Helper loaded: ajaxcheck_helper
+DEBUG - 2013-06-03 19:01:37 --> Session Class Initialized
+DEBUG - 2013-06-03 19:01:37 --> Encrypt Class Initialized
+DEBUG - 2013-06-03 19:01:37 --> Session routines successfully run
+DEBUG - 2013-06-03 19:01:37 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2013-06-03 19:01:37 --> Controller Class Initialized
+DEBUG - 2013-06-03 19:01:37 --> Helper loaded: auth_helper
+ERROR - 2013-06-03 19:01:37 --> Severity: Notice  --> Use of undefined constant ENVIROMENT - assumed 'ENVIROMENT' /var/lib/stickshift/519636794382ecc2ba0005f6/app-root/data/500440/application/views/template/head.php 19
+DEBUG - 2013-06-03 19:01:37 --> File loaded: application/views/template/debug.php
+DEBUG - 2013-06-03 19:01:37 --> File loaded: application/views/template/head.php
+DEBUG - 2013-06-03 19:01:37 --> File loaded: application/views/template/header.php
+DEBUG - 2013-06-03 19:01:37 --> File loaded: application/views/dashboard/view.php
+DEBUG - 2013-06-03 19:01:37 --> File loaded: application/views/template/footer.php
+DEBUG - 2013-06-03 19:01:37 --> File loaded: application/views/template/view.php
+DEBUG - 2013-06-03 19:01:37 --> Final output sent to browser
+DEBUG - 2013-06-03 19:01:37 --> Total execution time: 0.3887
+DEBUG - 2013-06-03 19:02:03 --> Config Class Initialized
+DEBUG - 2013-06-03 19:02:03 --> Hooks Class Initialized
+DEBUG - 2013-06-03 19:02:03 --> Utf8 Class Initialized
+DEBUG - 2013-06-03 19:02:03 --> UTF-8 Support Enabled
+DEBUG - 2013-06-03 19:02:03 --> URI Class Initialized
+DEBUG - 2013-06-03 19:02:03 --> Router Class Initialized
+DEBUG - 2013-06-03 19:02:03 --> No URI present. Default controller set.
+DEBUG - 2013-06-03 19:02:03 --> Output Class Initialized
+DEBUG - 2013-06-03 19:02:03 --> Security Class Initialized
+DEBUG - 2013-06-03 19:02:03 --> Input Class Initialized
+DEBUG - 2013-06-03 19:02:03 --> XSS Filtering completed
+DEBUG - 2013-06-03 19:02:03 --> XSS Filtering completed
+DEBUG - 2013-06-03 19:02:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-03 19:02:03 --> Language Class Initialized
+DEBUG - 2013-06-03 19:02:03 --> Loader Class Initialized
+DEBUG - 2013-06-03 19:02:03 --> Config file loaded: application/config/datatables.php
+DEBUG - 2013-06-03 19:02:03 --> Helper loaded: url_helper
+DEBUG - 2013-06-03 19:02:03 --> Helper loaded: file_helper
+DEBUG - 2013-06-03 19:02:03 --> Helper loaded: inflector_helper
+DEBUG - 2013-06-03 19:02:03 --> Helper loaded: language_helper
+DEBUG - 2013-06-03 19:02:03 --> Helper loaded: string_helper
+DEBUG - 2013-06-03 19:02:04 --> Helper loaded: form_helper
+DEBUG - 2013-06-03 19:02:04 --> Helper loaded: ajaxcheck_helper
+DEBUG - 2013-06-03 19:02:04 --> Session Class Initialized
+DEBUG - 2013-06-03 19:02:04 --> Encrypt Class Initialized
+DEBUG - 2013-06-03 19:02:04 --> Session routines successfully run
+DEBUG - 2013-06-03 19:02:04 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2013-06-03 19:02:04 --> Controller Class Initialized
+DEBUG - 2013-06-03 19:02:04 --> Helper loaded: auth_helper
+ERROR - 2013-06-03 19:02:04 --> Severity: Notice  --> Use of undefined constant ENVIROMENT - assumed 'ENVIROMENT' /var/lib/stickshift/519636794382ecc2ba0005f6/app-root/data/500440/application/views/template/head.php 19
+DEBUG - 2013-06-03 19:02:04 --> File loaded: application/views/template/debug.php
+DEBUG - 2013-06-03 19:02:04 --> File loaded: application/views/template/head.php
+DEBUG - 2013-06-03 19:02:04 --> File loaded: application/views/template/header.php
+DEBUG - 2013-06-03 19:02:04 --> File loaded: application/views/dashboard/view.php
+DEBUG - 2013-06-03 19:02:04 --> File loaded: application/views/template/footer.php
+DEBUG - 2013-06-03 19:02:04 --> File loaded: application/views/template/view.php
+DEBUG - 2013-06-03 19:02:04 --> Final output sent to browser
+DEBUG - 2013-06-03 19:02:04 --> Total execution time: 0.2556
+DEBUG - 2013-06-03 19:02:07 --> Config Class Initialized
+DEBUG - 2013-06-03 19:02:07 --> Hooks Class Initialized
+DEBUG - 2013-06-03 19:02:07 --> Utf8 Class Initialized
+DEBUG - 2013-06-03 19:02:07 --> UTF-8 Support Enabled
+DEBUG - 2013-06-03 19:02:07 --> URI Class Initialized
+DEBUG - 2013-06-03 19:02:07 --> Router Class Initialized
+DEBUG - 2013-06-03 19:02:07 --> No URI present. Default controller set.
+DEBUG - 2013-06-03 19:02:07 --> Output Class Initialized
+DEBUG - 2013-06-03 19:02:07 --> Security Class Initialized
+DEBUG - 2013-06-03 19:02:07 --> Input Class Initialized
+DEBUG - 2013-06-03 19:02:07 --> XSS Filtering completed
+DEBUG - 2013-06-03 19:02:07 --> XSS Filtering completed
+DEBUG - 2013-06-03 19:02:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-03 19:02:07 --> Language Class Initialized
+DEBUG - 2013-06-03 19:02:07 --> Loader Class Initialized
+DEBUG - 2013-06-03 19:02:07 --> Config file loaded: application/config/datatables.php
+DEBUG - 2013-06-03 19:02:07 --> Helper loaded: url_helper
+DEBUG - 2013-06-03 19:02:07 --> Helper loaded: file_helper
+DEBUG - 2013-06-03 19:02:07 --> Helper loaded: inflector_helper
+DEBUG - 2013-06-03 19:02:07 --> Helper loaded: language_helper
+DEBUG - 2013-06-03 19:02:07 --> Helper loaded: string_helper
+DEBUG - 2013-06-03 19:02:07 --> Helper loaded: form_helper
+DEBUG - 2013-06-03 19:02:07 --> Helper loaded: ajaxcheck_helper
+DEBUG - 2013-06-03 19:02:07 --> Session Class Initialized
+DEBUG - 2013-06-03 19:02:07 --> Encrypt Class Initialized
+DEBUG - 2013-06-03 19:02:07 --> Session routines successfully run
+DEBUG - 2013-06-03 19:02:07 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2013-06-03 19:02:07 --> Controller Class Initialized
+DEBUG - 2013-06-03 19:02:07 --> Helper loaded: auth_helper
+ERROR - 2013-06-03 19:02:07 --> Severity: Notice  --> Use of undefined constant ENVIROMENT - assumed 'ENVIROMENT' /var/lib/stickshift/519636794382ecc2ba0005f6/app-root/data/500440/application/views/template/head.php 19
+DEBUG - 2013-06-03 19:02:07 --> File loaded: application/views/template/debug.php
+DEBUG - 2013-06-03 19:02:07 --> File loaded: application/views/template/head.php
+DEBUG - 2013-06-03 19:02:07 --> File loaded: application/views/template/header.php
+DEBUG - 2013-06-03 19:02:07 --> File loaded: application/views/dashboard/view.php
+DEBUG - 2013-06-03 19:02:07 --> File loaded: application/views/template/footer.php
+DEBUG - 2013-06-03 19:02:07 --> File loaded: application/views/template/view.php
+DEBUG - 2013-06-03 19:02:07 --> Final output sent to browser
+DEBUG - 2013-06-03 19:02:07 --> Total execution time: 0.2366
+DEBUG - 2013-06-03 19:03:36 --> Config Class Initialized
+DEBUG - 2013-06-03 19:03:36 --> Hooks Class Initialized
+DEBUG - 2013-06-03 19:03:36 --> Utf8 Class Initialized
+DEBUG - 2013-06-03 19:03:36 --> UTF-8 Support Enabled
+DEBUG - 2013-06-03 19:03:36 --> URI Class Initialized
+DEBUG - 2013-06-03 19:03:36 --> Router Class Initialized
+DEBUG - 2013-06-03 19:03:36 --> No URI present. Default controller set.
+DEBUG - 2013-06-03 19:03:36 --> Output Class Initialized
+DEBUG - 2013-06-03 19:03:36 --> Security Class Initialized
+DEBUG - 2013-06-03 19:03:36 --> Input Class Initialized
+DEBUG - 2013-06-03 19:03:36 --> XSS Filtering completed
+DEBUG - 2013-06-03 19:03:36 --> XSS Filtering completed
+DEBUG - 2013-06-03 19:03:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-03 19:03:36 --> Language Class Initialized
+DEBUG - 2013-06-03 19:03:36 --> Loader Class Initialized
+DEBUG - 2013-06-03 19:03:36 --> Config file loaded: application/config/datatables.php
+DEBUG - 2013-06-03 19:03:36 --> Helper loaded: url_helper
+DEBUG - 2013-06-03 19:03:36 --> Helper loaded: file_helper
+DEBUG - 2013-06-03 19:03:36 --> Helper loaded: inflector_helper
+DEBUG - 2013-06-03 19:03:36 --> Helper loaded: language_helper
+DEBUG - 2013-06-03 19:03:36 --> Helper loaded: string_helper
+DEBUG - 2013-06-03 19:03:36 --> Helper loaded: form_helper
+DEBUG - 2013-06-03 19:03:36 --> Helper loaded: ajaxcheck_helper
+DEBUG - 2013-06-03 19:03:36 --> Session Class Initialized
+DEBUG - 2013-06-03 19:03:36 --> Encrypt Class Initialized
+DEBUG - 2013-06-03 19:03:36 --> Session routines successfully run
+DEBUG - 2013-06-03 19:03:36 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2013-06-03 19:03:36 --> Controller Class Initialized
+DEBUG - 2013-06-03 19:03:36 --> Helper loaded: auth_helper
+DEBUG - 2013-06-03 19:03:36 --> File loaded: application/views/template/debug.php
+DEBUG - 2013-06-03 19:03:36 --> File loaded: application/views/template/head.php
+DEBUG - 2013-06-03 19:03:36 --> File loaded: application/views/template/header.php
+DEBUG - 2013-06-03 19:03:36 --> File loaded: application/views/dashboard/view.php
+DEBUG - 2013-06-03 19:03:36 --> File loaded: application/views/template/footer.php
+DEBUG - 2013-06-03 19:03:36 --> File loaded: application/views/template/view.php
+DEBUG - 2013-06-03 19:03:36 --> Final output sent to browser
+DEBUG - 2013-06-03 19:03:36 --> Total execution time: 0.2600
+DEBUG - 2013-06-03 19:04:07 --> Config Class Initialized
+DEBUG - 2013-06-03 19:04:07 --> Hooks Class Initialized
+DEBUG - 2013-06-03 19:04:07 --> Utf8 Class Initialized
+DEBUG - 2013-06-03 19:04:07 --> UTF-8 Support Enabled
+DEBUG - 2013-06-03 19:04:07 --> URI Class Initialized
+DEBUG - 2013-06-03 19:04:07 --> Router Class Initialized
+DEBUG - 2013-06-03 19:04:07 --> No URI present. Default controller set.
+DEBUG - 2013-06-03 19:04:07 --> Output Class Initialized
+DEBUG - 2013-06-03 19:04:07 --> Security Class Initialized
+DEBUG - 2013-06-03 19:04:07 --> Input Class Initialized
+DEBUG - 2013-06-03 19:04:07 --> XSS Filtering completed
+DEBUG - 2013-06-03 19:04:07 --> XSS Filtering completed
+DEBUG - 2013-06-03 19:04:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-03 19:04:07 --> Language Class Initialized
+DEBUG - 2013-06-03 19:04:07 --> Loader Class Initialized
+DEBUG - 2013-06-03 19:04:07 --> Config file loaded: application/config/datatables.php
+DEBUG - 2013-06-03 19:04:07 --> Helper loaded: url_helper
+DEBUG - 2013-06-03 19:04:07 --> Helper loaded: file_helper
+DEBUG - 2013-06-03 19:04:07 --> Helper loaded: inflector_helper
+DEBUG - 2013-06-03 19:04:07 --> Helper loaded: language_helper
+DEBUG - 2013-06-03 19:04:07 --> Helper loaded: string_helper
+DEBUG - 2013-06-03 19:04:07 --> Helper loaded: form_helper
+DEBUG - 2013-06-03 19:04:07 --> Helper loaded: ajaxcheck_helper
+DEBUG - 2013-06-03 19:04:07 --> Session Class Initialized
+DEBUG - 2013-06-03 19:04:07 --> Encrypt Class Initialized
+DEBUG - 2013-06-03 19:04:07 --> Session routines successfully run
+DEBUG - 2013-06-03 19:04:07 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2013-06-03 19:04:07 --> Controller Class Initialized
+DEBUG - 2013-06-03 19:04:07 --> Helper loaded: auth_helper
+DEBUG - 2013-06-03 19:04:07 --> File loaded: application/views/template/debug.php
+DEBUG - 2013-06-03 19:04:07 --> File loaded: application/views/template/head.php
+DEBUG - 2013-06-03 19:04:07 --> File loaded: application/views/template/header.php
+DEBUG - 2013-06-03 19:04:07 --> File loaded: application/views/dashboard/view.php
+DEBUG - 2013-06-03 19:04:07 --> File loaded: application/views/template/footer.php
+DEBUG - 2013-06-03 19:04:07 --> File loaded: application/views/template/view.php
+DEBUG - 2013-06-03 19:04:07 --> Final output sent to browser
+DEBUG - 2013-06-03 19:04:07 --> Total execution time: 0.2888
+DEBUG - 2013-06-03 19:04:12 --> Config Class Initialized
+DEBUG - 2013-06-03 19:04:12 --> Hooks Class Initialized
+DEBUG - 2013-06-03 19:04:12 --> Utf8 Class Initialized
+DEBUG - 2013-06-03 19:04:12 --> UTF-8 Support Enabled
+DEBUG - 2013-06-03 19:04:12 --> URI Class Initialized
+DEBUG - 2013-06-03 19:04:12 --> Router Class Initialized
+ERROR - 2013-06-03 19:04:12 --> 404 Page Not Found --> debug
+DEBUG - 2013-06-03 19:04:13 --> Config Class Initialized
+DEBUG - 2013-06-03 19:04:13 --> Hooks Class Initialized
+DEBUG - 2013-06-03 19:04:13 --> Utf8 Class Initialized
+DEBUG - 2013-06-03 19:04:13 --> UTF-8 Support Enabled
+DEBUG - 2013-06-03 19:04:13 --> URI Class Initialized
+DEBUG - 2013-06-03 19:04:13 --> Router Class Initialized
+ERROR - 2013-06-03 19:04:13 --> 404 Page Not Found --> debug
+DEBUG - 2013-06-03 19:04:14 --> Config Class Initialized
+DEBUG - 2013-06-03 19:04:14 --> Hooks Class Initialized
+DEBUG - 2013-06-03 19:04:14 --> Utf8 Class Initialized
+DEBUG - 2013-06-03 19:04:14 --> UTF-8 Support Enabled
+DEBUG - 2013-06-03 19:04:14 --> URI Class Initialized
+DEBUG - 2013-06-03 19:04:14 --> Router Class Initialized
+DEBUG - 2013-06-03 19:04:14 --> No URI present. Default controller set.
+DEBUG - 2013-06-03 19:04:14 --> Output Class Initialized
+DEBUG - 2013-06-03 19:04:14 --> Security Class Initialized
+DEBUG - 2013-06-03 19:04:14 --> Input Class Initialized
+DEBUG - 2013-06-03 19:04:14 --> XSS Filtering completed
+DEBUG - 2013-06-03 19:04:14 --> XSS Filtering completed
+DEBUG - 2013-06-03 19:04:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-03 19:04:14 --> Language Class Initialized
+DEBUG - 2013-06-03 19:04:14 --> Loader Class Initialized
+DEBUG - 2013-06-03 19:04:14 --> Config file loaded: application/config/datatables.php
+DEBUG - 2013-06-03 19:04:14 --> Helper loaded: url_helper
+DEBUG - 2013-06-03 19:04:14 --> Helper loaded: file_helper
+DEBUG - 2013-06-03 19:04:14 --> Helper loaded: inflector_helper
+DEBUG - 2013-06-03 19:04:14 --> Helper loaded: language_helper
+DEBUG - 2013-06-03 19:04:14 --> Helper loaded: string_helper
+DEBUG - 2013-06-03 19:04:14 --> Helper loaded: form_helper
+DEBUG - 2013-06-03 19:04:14 --> Helper loaded: ajaxcheck_helper
+DEBUG - 2013-06-03 19:04:14 --> Session Class Initialized
+DEBUG - 2013-06-03 19:04:14 --> Encrypt Class Initialized
+DEBUG - 2013-06-03 19:04:14 --> Session routines successfully run
+DEBUG - 2013-06-03 19:04:14 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2013-06-03 19:04:14 --> Controller Class Initialized
+DEBUG - 2013-06-03 19:04:14 --> Helper loaded: auth_helper
+DEBUG - 2013-06-03 19:04:14 --> File loaded: application/views/template/debug.php
+DEBUG - 2013-06-03 19:04:14 --> File loaded: application/views/template/head.php
+DEBUG - 2013-06-03 19:04:14 --> File loaded: application/views/template/header.php
+DEBUG - 2013-06-03 19:04:14 --> File loaded: application/views/dashboard/view.php
+DEBUG - 2013-06-03 19:04:14 --> File loaded: application/views/template/footer.php
+DEBUG - 2013-06-03 19:04:14 --> File loaded: application/views/template/view.php
+DEBUG - 2013-06-03 19:04:14 --> Final output sent to browser
+DEBUG - 2013-06-03 19:04:14 --> Total execution time: 0.1531
+DEBUG - 2013-06-03 19:04:17 --> Config Class Initialized
+DEBUG - 2013-06-03 19:04:17 --> Hooks Class Initialized
+DEBUG - 2013-06-03 19:04:17 --> Utf8 Class Initialized
+DEBUG - 2013-06-03 19:04:17 --> UTF-8 Support Enabled
+DEBUG - 2013-06-03 19:04:17 --> URI Class Initialized
+DEBUG - 2013-06-03 19:04:17 --> Router Class Initialized
+ERROR - 2013-06-03 19:04:17 --> 404 Page Not Found --> debug
+DEBUG - 2013-06-03 19:05:41 --> Config Class Initialized
+DEBUG - 2013-06-03 19:05:41 --> Hooks Class Initialized
+DEBUG - 2013-06-03 19:05:41 --> Utf8 Class Initialized
+DEBUG - 2013-06-03 19:05:41 --> UTF-8 Support Enabled
+DEBUG - 2013-06-03 19:05:41 --> URI Class Initialized
+DEBUG - 2013-06-03 19:05:41 --> Router Class Initialized
+DEBUG - 2013-06-03 19:05:41 --> No URI present. Default controller set.
+DEBUG - 2013-06-03 19:05:41 --> Output Class Initialized
+DEBUG - 2013-06-03 19:05:41 --> Security Class Initialized
+DEBUG - 2013-06-03 19:05:41 --> Input Class Initialized
+DEBUG - 2013-06-03 19:05:41 --> XSS Filtering completed
+DEBUG - 2013-06-03 19:05:41 --> XSS Filtering completed
+DEBUG - 2013-06-03 19:05:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-03 19:05:41 --> Language Class Initialized
+DEBUG - 2013-06-03 19:05:41 --> Loader Class Initialized
+DEBUG - 2013-06-03 19:05:41 --> Config file loaded: application/config/datatables.php
+DEBUG - 2013-06-03 19:05:41 --> Helper loaded: url_helper
+DEBUG - 2013-06-03 19:05:41 --> Helper loaded: file_helper
+DEBUG - 2013-06-03 19:05:41 --> Helper loaded: inflector_helper
+DEBUG - 2013-06-03 19:05:41 --> Helper loaded: language_helper
+DEBUG - 2013-06-03 19:05:41 --> Helper loaded: string_helper
+DEBUG - 2013-06-03 19:05:42 --> Helper loaded: form_helper
+DEBUG - 2013-06-03 19:05:42 --> Helper loaded: ajaxcheck_helper
+DEBUG - 2013-06-03 19:05:42 --> Session Class Initialized
+DEBUG - 2013-06-03 19:05:42 --> Encrypt Class Initialized
+DEBUG - 2013-06-03 19:05:42 --> Session routines successfully run
+DEBUG - 2013-06-03 19:05:42 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2013-06-03 19:05:42 --> Controller Class Initialized
+DEBUG - 2013-06-03 19:05:42 --> Helper loaded: auth_helper
+DEBUG - 2013-06-03 19:05:42 --> File loaded: application/views/template/debug.php
+DEBUG - 2013-06-03 19:05:42 --> File loaded: application/views/template/head.php
+DEBUG - 2013-06-03 19:05:42 --> File loaded: application/views/template/header.php
+DEBUG - 2013-06-03 19:05:42 --> File loaded: application/views/dashboard/view.php
+DEBUG - 2013-06-03 19:05:42 --> File loaded: application/views/template/footer.php
+DEBUG - 2013-06-03 19:05:42 --> File loaded: application/views/template/view.php
+DEBUG - 2013-06-03 19:05:42 --> Final output sent to browser
+DEBUG - 2013-06-03 19:05:42 --> Total execution time: 0.1733
+DEBUG - 2013-06-03 19:05:47 --> Config Class Initialized
+DEBUG - 2013-06-03 19:05:47 --> Hooks Class Initialized
+DEBUG - 2013-06-03 19:05:47 --> Utf8 Class Initialized
+DEBUG - 2013-06-03 19:05:47 --> UTF-8 Support Enabled
+DEBUG - 2013-06-03 19:05:47 --> URI Class Initialized
+DEBUG - 2013-06-03 19:05:47 --> Router Class Initialized
+DEBUG - 2013-06-03 19:05:47 --> No URI present. Default controller set.
+DEBUG - 2013-06-03 19:05:47 --> Output Class Initialized
+DEBUG - 2013-06-03 19:05:47 --> Security Class Initialized
+DEBUG - 2013-06-03 19:05:47 --> Input Class Initialized
+DEBUG - 2013-06-03 19:05:47 --> XSS Filtering completed
+DEBUG - 2013-06-03 19:05:47 --> XSS Filtering completed
+DEBUG - 2013-06-03 19:05:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-03 19:05:47 --> Language Class Initialized
+DEBUG - 2013-06-03 19:05:47 --> Loader Class Initialized
+DEBUG - 2013-06-03 19:05:47 --> Config file loaded: application/config/datatables.php
+DEBUG - 2013-06-03 19:05:47 --> Helper loaded: url_helper
+DEBUG - 2013-06-03 19:05:47 --> Helper loaded: file_helper
+DEBUG - 2013-06-03 19:05:47 --> Helper loaded: inflector_helper
+DEBUG - 2013-06-03 19:05:47 --> Helper loaded: language_helper
+DEBUG - 2013-06-03 19:05:47 --> Helper loaded: string_helper
+DEBUG - 2013-06-03 19:05:47 --> Helper loaded: form_helper
+DEBUG - 2013-06-03 19:05:47 --> Helper loaded: ajaxcheck_helper
+DEBUG - 2013-06-03 19:05:47 --> Session Class Initialized
+DEBUG - 2013-06-03 19:05:47 --> Encrypt Class Initialized
+DEBUG - 2013-06-03 19:05:47 --> Session routines successfully run
+DEBUG - 2013-06-03 19:05:47 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2013-06-03 19:05:47 --> Controller Class Initialized
+DEBUG - 2013-06-03 19:05:47 --> Helper loaded: auth_helper
+DEBUG - 2013-06-03 19:05:47 --> File loaded: application/views/template/debug.php
+DEBUG - 2013-06-03 19:05:47 --> File loaded: application/views/template/head.php
+DEBUG - 2013-06-03 19:05:47 --> File loaded: application/views/template/header.php
+DEBUG - 2013-06-03 19:05:47 --> File loaded: application/views/dashboard/view.php
+DEBUG - 2013-06-03 19:05:47 --> File loaded: application/views/template/footer.php
+DEBUG - 2013-06-03 19:05:47 --> File loaded: application/views/template/view.php
+DEBUG - 2013-06-03 19:05:47 --> Final output sent to browser
+DEBUG - 2013-06-03 19:05:47 --> Total execution time: 0.3209
+DEBUG - 2013-06-03 19:06:14 --> Config Class Initialized
+DEBUG - 2013-06-03 19:06:14 --> Hooks Class Initialized
+DEBUG - 2013-06-03 19:06:14 --> Utf8 Class Initialized
+DEBUG - 2013-06-03 19:06:14 --> UTF-8 Support Enabled
+DEBUG - 2013-06-03 19:06:14 --> URI Class Initialized
+DEBUG - 2013-06-03 19:06:14 --> Router Class Initialized
+DEBUG - 2013-06-03 19:06:14 --> No URI present. Default controller set.
+DEBUG - 2013-06-03 19:06:14 --> Output Class Initialized
+DEBUG - 2013-06-03 19:06:14 --> Security Class Initialized
+DEBUG - 2013-06-03 19:06:14 --> Input Class Initialized
+DEBUG - 2013-06-03 19:06:14 --> XSS Filtering completed
+DEBUG - 2013-06-03 19:06:14 --> XSS Filtering completed
+DEBUG - 2013-06-03 19:06:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-03 19:06:14 --> Language Class Initialized
+DEBUG - 2013-06-03 19:06:14 --> Loader Class Initialized
+DEBUG - 2013-06-03 19:06:14 --> Config file loaded: application/config/datatables.php
+DEBUG - 2013-06-03 19:06:14 --> Helper loaded: url_helper
+DEBUG - 2013-06-03 19:06:14 --> Helper loaded: file_helper
+DEBUG - 2013-06-03 19:06:14 --> Helper loaded: inflector_helper
+DEBUG - 2013-06-03 19:06:14 --> Helper loaded: language_helper
+DEBUG - 2013-06-03 19:06:14 --> Helper loaded: string_helper
+DEBUG - 2013-06-03 19:06:14 --> Helper loaded: form_helper
+DEBUG - 2013-06-03 19:06:14 --> Helper loaded: ajaxcheck_helper
+DEBUG - 2013-06-03 19:06:14 --> Session Class Initialized
+DEBUG - 2013-06-03 19:06:14 --> Encrypt Class Initialized
+DEBUG - 2013-06-03 19:06:14 --> Session routines successfully run
+DEBUG - 2013-06-03 19:06:14 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2013-06-03 19:06:14 --> Controller Class Initialized
+DEBUG - 2013-06-03 19:06:14 --> Helper loaded: auth_helper
+DEBUG - 2013-06-03 19:06:14 --> File loaded: application/views/template/debug.php
+DEBUG - 2013-06-03 19:06:14 --> File loaded: application/views/template/head.php
+DEBUG - 2013-06-03 19:06:14 --> File loaded: application/views/template/header.php
+DEBUG - 2013-06-03 19:06:14 --> File loaded: application/views/dashboard/view.php
+DEBUG - 2013-06-03 19:06:14 --> File loaded: application/views/template/footer.php
+DEBUG - 2013-06-03 19:06:14 --> File loaded: application/views/template/view.php
+DEBUG - 2013-06-03 19:06:14 --> Final output sent to browser
+DEBUG - 2013-06-03 19:06:14 --> Total execution time: 0.6542
+DEBUG - 2013-06-03 19:07:26 --> Config Class Initialized
+DEBUG - 2013-06-03 19:07:26 --> Hooks Class Initialized
+DEBUG - 2013-06-03 19:07:26 --> Utf8 Class Initialized
+DEBUG - 2013-06-03 19:07:26 --> UTF-8 Support Enabled
+DEBUG - 2013-06-03 19:07:26 --> URI Class Initialized
+DEBUG - 2013-06-03 19:07:26 --> Router Class Initialized
+DEBUG - 2013-06-03 19:07:26 --> No URI present. Default controller set.
+DEBUG - 2013-06-03 19:07:26 --> Output Class Initialized
+DEBUG - 2013-06-03 19:07:26 --> Security Class Initialized
+DEBUG - 2013-06-03 19:07:26 --> Input Class Initialized
+DEBUG - 2013-06-03 19:07:26 --> XSS Filtering completed
+DEBUG - 2013-06-03 19:07:26 --> XSS Filtering completed
+DEBUG - 2013-06-03 19:07:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-03 19:07:26 --> Language Class Initialized
+DEBUG - 2013-06-03 19:07:26 --> Loader Class Initialized
+DEBUG - 2013-06-03 19:07:26 --> Config file loaded: application/config/datatables.php
+DEBUG - 2013-06-03 19:07:26 --> Helper loaded: url_helper
+DEBUG - 2013-06-03 19:07:26 --> Helper loaded: file_helper
+DEBUG - 2013-06-03 19:07:26 --> Helper loaded: inflector_helper
+DEBUG - 2013-06-03 19:07:26 --> Helper loaded: language_helper
+DEBUG - 2013-06-03 19:07:26 --> Helper loaded: string_helper
+DEBUG - 2013-06-03 19:07:26 --> Helper loaded: form_helper
+DEBUG - 2013-06-03 19:07:26 --> Helper loaded: ajaxcheck_helper
+DEBUG - 2013-06-03 19:07:26 --> Session Class Initialized
+DEBUG - 2013-06-03 19:07:26 --> Encrypt Class Initialized
+DEBUG - 2013-06-03 19:07:26 --> Session routines successfully run
+DEBUG - 2013-06-03 19:07:26 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2013-06-03 19:07:26 --> Controller Class Initialized
+DEBUG - 2013-06-03 19:07:26 --> Helper loaded: auth_helper
+DEBUG - 2013-06-03 19:07:26 --> File loaded: application/views/template/debug.php
+DEBUG - 2013-06-03 19:07:26 --> File loaded: application/views/template/head.php
+DEBUG - 2013-06-03 19:07:26 --> File loaded: application/views/template/header.php
+DEBUG - 2013-06-03 19:07:26 --> File loaded: application/views/dashboard/view.php
+DEBUG - 2013-06-03 19:07:26 --> File loaded: application/views/template/footer.php
+DEBUG - 2013-06-03 19:07:26 --> File loaded: application/views/template/view.php
+DEBUG - 2013-06-03 19:07:26 --> Final output sent to browser
+DEBUG - 2013-06-03 19:07:26 --> Total execution time: 0.1639
+DEBUG - 2013-06-03 19:07:33 --> Config Class Initialized
+DEBUG - 2013-06-03 19:07:33 --> Hooks Class Initialized
+DEBUG - 2013-06-03 19:07:33 --> Utf8 Class Initialized
+DEBUG - 2013-06-03 19:07:33 --> UTF-8 Support Enabled
+DEBUG - 2013-06-03 19:07:33 --> URI Class Initialized
+DEBUG - 2013-06-03 19:07:33 --> Router Class Initialized
+DEBUG - 2013-06-03 19:07:33 --> Output Class Initialized
+DEBUG - 2013-06-03 19:07:33 --> Security Class Initialized
+DEBUG - 2013-06-03 19:07:33 --> Input Class Initialized
+DEBUG - 2013-06-03 19:07:33 --> XSS Filtering completed
+DEBUG - 2013-06-03 19:07:33 --> XSS Filtering completed
+DEBUG - 2013-06-03 19:07:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-03 19:07:33 --> Language Class Initialized
+DEBUG - 2013-06-03 19:07:33 --> Loader Class Initialized
+DEBUG - 2013-06-03 19:07:33 --> Config file loaded: application/config/datatables.php
+DEBUG - 2013-06-03 19:07:33 --> Helper loaded: url_helper
+DEBUG - 2013-06-03 19:07:33 --> Helper loaded: file_helper
+DEBUG - 2013-06-03 19:07:33 --> Helper loaded: inflector_helper
+DEBUG - 2013-06-03 19:07:33 --> Helper loaded: language_helper
+DEBUG - 2013-06-03 19:07:33 --> Helper loaded: string_helper
+DEBUG - 2013-06-03 19:07:33 --> Helper loaded: form_helper
+DEBUG - 2013-06-03 19:07:33 --> Helper loaded: ajaxcheck_helper
+DEBUG - 2013-06-03 19:07:33 --> Session Class Initialized
+DEBUG - 2013-06-03 19:07:33 --> Encrypt Class Initialized
+DEBUG - 2013-06-03 19:07:33 --> Session routines successfully run
+DEBUG - 2013-06-03 19:07:33 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2013-06-03 19:07:33 --> Controller Class Initialized
+DEBUG - 2013-06-03 19:07:33 --> Model Class Initialized
+DEBUG - 2013-06-03 19:07:33 --> Model Class Initialized
+ERROR - 2013-06-03 19:07:33 --> Could not find the language line "dt_search_placeholder"
+ERROR - 2013-06-03 19:07:33 --> Could not find the language line "dt_export"
+ERROR - 2013-06-03 19:07:33 --> Could not find the language line "dt_columns"
+ERROR - 2013-06-03 19:07:33 --> Could not find the language line "dt_first"
+ERROR - 2013-06-03 19:07:33 --> Could not find the language line "dt_last"
+ERROR - 2013-06-03 19:07:33 --> Could not find the language line "dt_next"
+ERROR - 2013-06-03 19:07:33 --> Could not find the language line "dt_previous"
+ERROR - 2013-06-03 19:07:33 --> Could not find the language line "dt_empty_table"
+ERROR - 2013-06-03 19:07:33 --> Could not find the language line "dt_info"
+ERROR - 2013-06-03 19:07:33 --> Could not find the language line "dt_info_empty"
+ERROR - 2013-06-03 19:07:33 --> Could not find the language line "dt_info_filtered"
+ERROR - 2013-06-03 19:07:33 --> Could not find the language line "dt_info_postfix"
+ERROR - 2013-06-03 19:07:33 --> Could not find the language line "dt_length_menu"
+ERROR - 2013-06-03 19:07:33 --> Could not find the language line "dt_loading_records"
+ERROR - 2013-06-03 19:07:33 --> Could not find the language line "dt_processing"
+ERROR - 2013-06-03 19:07:33 --> Could not find the language line "dt_search"
+ERROR - 2013-06-03 19:07:33 --> Could not find the language line "dt_zero_records"
+DEBUG - 2013-06-03 19:07:34 --> File loaded: application/views/template/debug.php
+DEBUG - 2013-06-03 19:07:34 --> File loaded: application/views/template/head.php
+DEBUG - 2013-06-03 19:07:34 --> File loaded: application/views/template/header.php
+DEBUG - 2013-06-03 19:07:34 --> File loaded: application/views/company/view.php
+DEBUG - 2013-06-03 19:07:34 --> File loaded: application/views/template/footer.php
+DEBUG - 2013-06-03 19:07:34 --> File loaded: application/views/template/view.php
+DEBUG - 2013-06-03 19:07:34 --> Final output sent to browser
+DEBUG - 2013-06-03 19:07:34 --> Total execution time: 0.3370
+DEBUG - 2013-06-03 19:07:36 --> Config Class Initialized
+DEBUG - 2013-06-03 19:07:36 --> Hooks Class Initialized
+DEBUG - 2013-06-03 19:07:36 --> Utf8 Class Initialized
+DEBUG - 2013-06-03 19:07:36 --> UTF-8 Support Enabled
+DEBUG - 2013-06-03 19:07:36 --> URI Class Initialized
+DEBUG - 2013-06-03 19:07:36 --> Router Class Initialized
+DEBUG - 2013-06-03 19:07:36 --> Output Class Initialized
+DEBUG - 2013-06-03 19:07:36 --> Security Class Initialized
+DEBUG - 2013-06-03 19:07:36 --> Input Class Initialized
+DEBUG - 2013-06-03 19:07:36 --> XSS Filtering completed
+DEBUG - 2013-06-03 19:07:36 --> XSS Filtering completed
+DEBUG - 2013-06-03 19:07:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-03 19:07:36 --> Language Class Initialized
+DEBUG - 2013-06-03 19:07:36 --> Loader Class Initialized
+DEBUG - 2013-06-03 19:07:36 --> Config file loaded: application/config/datatables.php
+DEBUG - 2013-06-03 19:07:36 --> Helper loaded: url_helper
+DEBUG - 2013-06-03 19:07:36 --> Helper loaded: file_helper
+DEBUG - 2013-06-03 19:07:36 --> Helper loaded: inflector_helper
+DEBUG - 2013-06-03 19:07:36 --> Helper loaded: language_helper
+DEBUG - 2013-06-03 19:07:36 --> Helper loaded: string_helper
+DEBUG - 2013-06-03 19:07:36 --> Helper loaded: form_helper
+DEBUG - 2013-06-03 19:07:36 --> Helper loaded: ajaxcheck_helper
+DEBUG - 2013-06-03 19:07:36 --> Session Class Initialized
+DEBUG - 2013-06-03 19:07:36 --> Encrypt Class Initialized
+DEBUG - 2013-06-03 19:07:36 --> Session routines successfully run
+DEBUG - 2013-06-03 19:07:36 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2013-06-03 19:07:36 --> Controller Class Initialized
+DEBUG - 2013-06-03 19:07:36 --> Model Class Initialized
+DEBUG - 2013-06-03 19:07:36 --> Model Class Initialized
+DEBUG - 2013-06-03 19:07:36 --> File loaded: application/views/template/debug.php
+DEBUG - 2013-06-03 19:07:36 --> File loaded: application/views/template/head.php
+DEBUG - 2013-06-03 19:07:36 --> File loaded: application/views/template/header.php
+DEBUG - 2013-06-03 19:07:36 --> File loaded: application/views/company/add.php
+DEBUG - 2013-06-03 19:07:36 --> File loaded: application/views/template/footer.php
+DEBUG - 2013-06-03 19:07:36 --> File loaded: application/views/template/view.php
+DEBUG - 2013-06-03 19:07:36 --> Final output sent to browser
+DEBUG - 2013-06-03 19:07:36 --> Total execution time: 0.1312
+DEBUG - 2013-06-03 19:07:42 --> Config Class Initialized
+DEBUG - 2013-06-03 19:07:42 --> Hooks Class Initialized
+DEBUG - 2013-06-03 19:07:42 --> Utf8 Class Initialized
+DEBUG - 2013-06-03 19:07:42 --> UTF-8 Support Enabled
+DEBUG - 2013-06-03 19:07:42 --> URI Class Initialized
+DEBUG - 2013-06-03 19:07:42 --> Router Class Initialized
+DEBUG - 2013-06-03 19:07:42 --> No URI present. Default controller set.
+DEBUG - 2013-06-03 19:07:42 --> Output Class Initialized
+DEBUG - 2013-06-03 19:07:42 --> Security Class Initialized
+DEBUG - 2013-06-03 19:07:42 --> Input Class Initialized
+DEBUG - 2013-06-03 19:07:42 --> XSS Filtering completed
+DEBUG - 2013-06-03 19:07:42 --> XSS Filtering completed
+DEBUG - 2013-06-03 19:07:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-06-03 19:07:42 --> Language Class Initialized
+DEBUG - 2013-06-03 19:07:42 --> Loader Class Initialized
+DEBUG - 2013-06-03 19:07:42 --> Config file loaded: application/config/datatables.php
+DEBUG - 2013-06-03 19:07:42 --> Helper loaded: url_helper
+DEBUG - 2013-06-03 19:07:42 --> Helper loaded: file_helper
+DEBUG - 2013-06-03 19:07:42 --> Helper loaded: inflector_helper
+DEBUG - 2013-06-03 19:07:42 --> Helper loaded: language_helper
+DEBUG - 2013-06-03 19:07:42 --> Helper loaded: string_helper
+DEBUG - 2013-06-03 19:07:42 --> Helper loaded: form_helper
+DEBUG - 2013-06-03 19:07:42 --> Helper loaded: ajaxcheck_helper
+DEBUG - 2013-06-03 19:07:42 --> Session Class Initialized
+DEBUG - 2013-06-03 19:07:42 --> Encrypt Class Initialized
+DEBUG - 2013-06-03 19:07:42 --> Session routines successfully run
+DEBUG - 2013-06-03 19:07:42 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2013-06-03 19:07:42 --> Controller Class Initialized
+DEBUG - 2013-06-03 19:07:42 --> Helper loaded: auth_helper
+DEBUG - 2013-06-03 19:07:42 --> File loaded: application/views/template/debug.php
+DEBUG - 2013-06-03 19:07:42 --> File loaded: application/views/template/head.php
+DEBUG - 2013-06-03 19:07:42 --> File loaded: application/views/template/header.php
+DEBUG - 2013-06-03 19:07:42 --> File loaded: application/views/dashboard/view.php
+DEBUG - 2013-06-03 19:07:42 --> File loaded: application/views/template/footer.php
+DEBUG - 2013-06-03 19:07:42 --> File loaded: application/views/template/view.php
+DEBUG - 2013-06-03 19:07:42 --> Final output sent to browser
+DEBUG - 2013-06-03 19:07:42 --> Total execution time: 0.3082

@@ -1,4 +1,4 @@
-<div class="well well-dark-grey" style="margin:0 20px 20px 20px;">
+<div class="well well-dark-grey">
     
    
         <div class="row-fluid">

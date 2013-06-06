@@ -6,12 +6,10 @@ class Company extends CI_Controller {
     {
 		parent::__construct();
         $this->load->model('users_model');         
-        
 	}
 
 	public function index()
 	{ 
- 
         $data = array();
         $data['view'] = null;
         
@@ -29,8 +27,6 @@ class Company extends CI_Controller {
 
         $data['table'] = $this->datatables->generate('users','Company Users',false);                               
 
-
-        
     	$this->load->view($template,$data);
 	}
     
@@ -54,7 +50,9 @@ class Company extends CI_Controller {
                 
             $data['access_options_html'] .= '<option value="'.$value.'" '.$s.'>'.$name.'</option>'; 
         }
-
+        
+        
+        //todo: centralize
         if(checkAjaxRequest()){
             $template = 'company/add';
         }else{
